@@ -16,35 +16,38 @@ HvACC Forum: https://forum.hvacc.org
 AeroNAV GNG Files: http://files.aero-nav.com/LGGG & http://files.aero-nav.com/LCCC
 
 ## Δημιουργία επικείμενων αλλαγών
-To NDT μεσα στο πρώτο εικοσαήμερο κάθε μήνα θα δημιουργεί issues με πηγή τις αλλαγές που δημοσιεύονται στο Hellas AIP. 
-Σε περίπτωση που κάποια αλλαγή λείπει, παρακαλούμε αναφέρετε την είτε στο forum είτε δημιουργώντας ένα issue στο GitHub.
+To NDT κάθε μήνα θα δημιουργεί issues με πηγή τις αλλαγές που δημοσιεύονται στο Hellas AIP. 
 
 ## Αναφορά προβλημάτων/προτάσεων για το sector file από την κοινότητα:
-### Διαδικασία:
-1. Δημιουργία Isuue στην πλατφόρμα GitHub είτε από χρήστες είτε από το NDT, χρησιμοποιόντας κατα προτίμηση ένα από τα templates που υπάρχουν (Bug Report|Feature Request)
+### Επιλογή 1: Απευθείας στο GitHub
+1. Δημιουργία Issue στην πλατφόρμα GitHub είτε από χρήστες είτε από το NDT, χρησιμοποιόντας κατα προτίμηση ένα από τα templates που υπάρχουν (Bug Report|Feature Request)
+Σημείωση: Όποιες αλλαγές προτείνονται και αφορούν διαδικασίες, προσυμφωνημένα, κλπ. πρέπει να τεκμηριώνονται (π.χ.  AD2-LGAV-IAC-1)
 2. Πρώτος έλεγχος από το NDT: 
     1. Σε περίπτωση αποδοχής: Προσθήκη tag αναμονής(pending) + milestone (ημερομηνία-στόχος διόρθωσης)
-    2. Σε περίπτωση άρνησης: Προσθήκη tag 'wontfix' και κλείσιμο του issue
+    2. Σε περίπτωση απόρριψης: Προσθήκη tag 'wontfix' και κλείσιμο του issue
 3. Εργασία του NDT στην πλατφόρμα GNG: προσθήκη tag 'in-progress' + ανάθεση σε μέλος του NDT
 4. Με την ολοκλήρωση της εργασίας: Προσθήκη tag 'completed'
 5. Έλεγχος στο Beta Testing
 6. Προσθήκη στο changelog.md (λίστα αλλαγών για το release)
 7. Με το επόμενο Release, το issue κλείνεται (closed)
 
+### Επιλογή 2: Μέσω του Forum
+Τα μέλη της κοινότητας μπορούν να αναφέρουν προτάσεις/προβλήματα σε σχετικό thread στο Forum (/link) και μέλη του NDT θα τα προσθέσουν στο GitHub.
+
 ## Προγραμματισμένα Release του sector file:
 AIRAC | Date | Milestone 
 ------------ | ------------- | -------------
-1904 | 30/03/2019 | TBA
+1904 | 30/03/2019 | [Click](https://github.com/tasosb/hvacc-sector-file/milestone/1)
 1905 | TBA | TBA
 1906 | TBA | TBA
 1907 | TBA | TBA
 1908 | TBA | TBA
 
 -------------------------
-v0.5.0
+v0.8.0
 
 Last Change: 25 MAR 2019
 
 By: Anastasios Mpithas
 
-Reason: Initial Commit
+Reason: New Data
