@@ -1,23 +1,23 @@
-##Καλωσήρθατε στην σελίδα αλλαγών του
-##Hellenic vACC Sector File 
+## Καλωσήρθατε στην σελίδα αλλαγών του
+## Hellenic vACC Sector File 
 ![HvACC Logo](https://forum.hvacc.org/uploads/monthly_2019_02/hvacc-logo-1-1.png.8ecd658f966d7ab047b8c305c623ece1.png)
 
-###Navigation Department Team (NDT):
->Director (ACCGR7): Anastasios Mpithas
->Deputy Director (ACCGR71): VACANT
->Contact at: nav (at) hvacc.org
+### Navigation Department Team (NDT):
+> Director (ACCGR7): Anastasios Mpithas
+> Deputy Director (ACCGR71): VACANT
+> Contact at: nav (at) hvacc.org
 
-###Χρήσιμα Link:
+### Χρήσιμα Link:
 HvACC: https://hvacc.org
 HvACC Forum: https://forum.hvacc.org
 AeroNAV GNG Files: http://files.aero-nav.com/LGGG & http://files.aero-nav.com/LCCC
 
-##Δημιουργία επικείμενων αλλαγών
+## Δημιουργία επικείμενων αλλαγών
 To NDT μεσα στο πρώτο εικοσαήμερο κάθε μήνα θα δημιουργεί issues με πηγή τις αλλαγές που δημοσιεύονται στο Hellas AIP. 
 Σε περίπτωση που κάποια αλλαγή λείπει, παρακαλούμε αναφέρετε την είτε στο forum είτε δημιουργώντας ένα issue στο GitHub.
 
-##Αναφορά προβλημάτων/προτάσεων για το sector file από την κοινότητα:
-###Διαδικασία:
+## Αναφορά προβλημάτων/προτάσεων για το sector file από την κοινότητα:
+### Διαδικασία:
 1) Δημιουργία Isuue στην πλατφόρμα GitHub είτε από χρήστες είτε από το NDT, χρησιμοποιόντας κατα προτίμηση ένα από τα templates που υπάρχουν (Bug Report|Feature Request)
 2) Πρώτος έλεγχος από το NDT: 
   a) Σε περίπτωση αποδοχής: Προσθήκη tag αναμονής(pending) + milestone (ημερομηνία-στόχος διόρθωσης)
@@ -28,7 +28,7 @@ To NDT μεσα στο πρώτο εικοσαήμερο κάθε μήνα θα 
 6)Προσθήκη στο changelog.md (λίστα αλλαγών για το release)
 7)Με το επόμενο Release, το issue κλείνεται (closed)
 
-##Προγραμματισμένα Release του sector file:
+## Προγραμματισμένα Release του sector file:
 AIRAC | Date | Milestone 
 ------------ | ------------- | -------------
 1904 | 30/03/2019 | TBA
