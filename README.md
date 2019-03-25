@@ -27,7 +27,7 @@ To NDT κάθε μήνα θα δημιουργεί issues με πηγή τις �
     2. Σε περίπτωση απόρριψης: Προσθήκη tag 'wontfix' και κλείσιμο του issue
 3. Εργασία του NDT στην πλατφόρμα GNG: προσθήκη tag 'in-progress' + ανάθεση σε μέλος του NDT
 4. Με την ολοκλήρωση της εργασίας: Προσθήκη tag 'completed'
-5. Έλεγχος στο Beta Testing
+5. Beta Testing
 6. Προσθήκη στο changelog.md (λίστα αλλαγών για το release)
 7. Με το επόμενο Release, το issue κλείνεται (closed)
 
