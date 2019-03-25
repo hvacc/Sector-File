@@ -37,7 +37,7 @@ To NDT κάθε μήνα θα δημιουργεί issues με πηγή τις �
 ## Προγραμματισμένα Release του sector file:
 AIRAC | Date | Milestone 
 ------------ | ------------- | -------------
-1904 | 30/03/2019 | [Click](https://github.com/tasosb/hvacc-sector-file/milestone/1)
+1904 | TBA | [Click](https://github.com/tasosb/hvacc-sector-file/milestone/1)
 1905 | TBA | TBA
 1906 | TBA | TBA
 1907 | TBA | TBA
