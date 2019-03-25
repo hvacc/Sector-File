@@ -4,7 +4,9 @@
 
 ### Navigation Department Team (NDT):
 > Director (ACCGR7): Anastasios Mpithas
+
 > Deputy Director (ACCGR71): VACANT
+
 > Contact at: nav (at) hvacc.org
 
 ### Χρήσιμα Link:
@@ -18,15 +20,15 @@ To NDT μεσα στο πρώτο εικοσαήμερο κάθε μήνα θα 
 
 ## Αναφορά προβλημάτων/προτάσεων για το sector file από την κοινότητα:
 ### Διαδικασία:
-1) Δημιουργία Isuue στην πλατφόρμα GitHub είτε από χρήστες είτε από το NDT, χρησιμοποιόντας κατα προτίμηση ένα από τα templates που υπάρχουν (Bug Report|Feature Request)
-2) Πρώτος έλεγχος από το NDT: 
-  a) Σε περίπτωση αποδοχής: Προσθήκη tag αναμονής(pending) + milestone (ημερομηνία-στόχος διόρθωσης)
-  b) Σε περίπτωση άρνησης: Προσθήκη tag 'wontfix' και κλείσιμο του issue
-3)Εργασία του NDT στην πλατφόρμα GNG: προσθήκη tag 'in-progress' + ανάθεση σε μέλος του NDT
-4)Με την ολοκλήρωση της εργασίας: Προσθήκη tag 'completed'
-5)Έλεγχος στο Beta Testing
-6)Προσθήκη στο changelog.md (λίστα αλλαγών για το release)
-7)Με το επόμενο Release, το issue κλείνεται (closed)
+1. Δημιουργία Isuue στην πλατφόρμα GitHub είτε από χρήστες είτε από το NDT, χρησιμοποιόντας κατα προτίμηση ένα από τα templates που υπάρχουν (Bug Report|Feature Request)
+2. Πρώτος έλεγχος από το NDT: 
+  a. Σε περίπτωση αποδοχής: Προσθήκη tag αναμονής(pending) + milestone (ημερομηνία-στόχος διόρθωσης)
+  b. Σε περίπτωση άρνησης: Προσθήκη tag 'wontfix' και κλείσιμο του issue
+3. Εργασία του NDT στην πλατφόρμα GNG: προσθήκη tag 'in-progress' + ανάθεση σε μέλος του NDT
+4. Με την ολοκλήρωση της εργασίας: Προσθήκη tag 'completed'
+5. Έλεγχος στο Beta Testing
+6. Προσθήκη στο changelog.md (λίστα αλλαγών για το release)
+7. Με το επόμενο Release, το issue κλείνεται (closed)
 
 ## Προγραμματισμένα Release του sector file:
 AIRAC | Date | Milestone 
