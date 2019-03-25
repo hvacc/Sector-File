@@ -1,5 +1,4 @@
-## Καλωσήρθατε στην σελίδα αλλαγών του
-## Hellenic vACC Sector File 
+## Καλωσήρθατε στην σελίδα αλλαγών του Hellenic vACC Sector File 
 ![HvACC Logo](https://forum.hvacc.org/uploads/monthly_2019_02/hvacc-logo-1-1.png.8ecd658f966d7ab047b8c305c623ece1.png)
 
 ### Navigation Department Team (NDT):
@@ -11,7 +10,9 @@
 
 ### Χρήσιμα Link:
 HvACC: https://hvacc.org
+
 HvACC Forum: https://forum.hvacc.org
+
 AeroNAV GNG Files: http://files.aero-nav.com/LGGG & http://files.aero-nav.com/LCCC
 
 ## Δημιουργία επικείμενων αλλαγών
@@ -40,6 +41,9 @@ AIRAC | Date | Milestone
 1908 | TBA | TBA
 
 v0.5.0
+
 Last Change: 25 MAR 2019
+
 By: Anastasios Mpithas
+
 Reason: Initial Commit
