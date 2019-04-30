@@ -21,11 +21,16 @@
     i. LGKL Taxiway Names Updated (#7)
     ii. LGSR STARs missing RWY 33 (#17)
     iii. YNN Direct APP added (#18)
+    iv. GOLDO Entry Point (#27)
+    v. DIGTI wrong COPX sector (#26)
 4. [COPX] Multiple changes
     i. Fixed LIXX<->LGGG COPX (Kerkyra specific) (#16)
     ii. Added COPX for AGAPU & BISMO (#22) (#6)
     iii. NIKTI (LGKV) COPX changed (#24)
     iv. ALTAN (LGSR) removed (#20)
-5. [OTHER] MALED1B Priority for LGIO (#23)
+    v. EPIRU (LGKR) removed (#19)
+5. [OTHER] 
+    i. MALED1B Priority for LGIO (#23)
+    ii. ASR changes (#28)
 #### i. LCCC
 1. WIP on neighbour vACC. v1903 Remains in use
