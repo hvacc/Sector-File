@@ -39,14 +39,14 @@ AIRAC | Date | Milestone
 ------------ | ------------- | -------------
 1904 | 03/04/2019 | [Click](https://github.com/tasosb/hvacc-sector-file/milestone/1)
 1905 | 30/04/2019 | [Click](https://github.com/tasosb/hvacc-sector-file/milestone/2)
-1906 | TBA | [Click](https://github.com/tasosb/hvacc-sector-file/milestone/4)
+1906 | 04/06/2019 | [Click](https://github.com/tasosb/hvacc-sector-file/milestone/4)
 1907 | TBA | TBA
 1908 | TBA | TBA
 
 -------------------------
 
-Last Change: 30 APR 2019
+Last Change: 04 JUN 2019
 
 By: Anastasios Mpithas
 
-Reason: 1905 Released
+Reason: 1906 Released
