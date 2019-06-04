@@ -34,3 +34,10 @@
     2. ASR changes (#28)
 #### i. LCCC
 1. WIP on neighbour vACC. v1903 Remains in use
+
+### Changes from Release 1905 to Release 1906 
+#### i. LGGG
+1. [AIRAC] Cycle updated to 1906
+    1. LGTS & LGMT RNAV PROC Added (#33-#34)
+#### i. LCCC
+1. WIP on neighbour vACC. v1903 Remains in use
