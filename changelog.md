@@ -41,3 +41,18 @@
     1. LGTS & LGMT RNAV PROC Added (#33-#34)
 #### i. LCCC
 1. WIP on neighbour vACC. v1903 Remains in use
+
+
+### Changes from Release 1906 to Release 1907 
+#### i. LGGG
+1. [AIRAC] Cycle updated to 1907
+2. [ALIAS] Added FIR point ATFIR (#42)
+3. [BUGS] IRBEX/URVIT LGGGRDS Sector bug (#29)
+4. [COPX-OTHER] Multiple changes:
+    1. Preferred SIDs in multiple airports (RP,KR,KO) (#44,#36,#37)
+    2. EVIVI doesn't show as copx point (#32)
+    3. PITAS inbound level (#35)
+    4. Plotting holdings for LGTS (#41)
+    5. Runways update on ASRs (KV, RP, AD, SR)
+#### i. LCCC
+1. WIP on neighbour vACC. v1903 Remains in use
