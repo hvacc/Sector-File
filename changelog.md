@@ -56,3 +56,83 @@
     5. Runways update on ASRs (KV, RP, AD, SR)
 #### i. LCCC
 1. WIP on neighbour vACC. v1903 Remains in use
+
+
+### Changes from Release 1907 to Release 1909:
+#### LGGG
+[GROUND LAYOUT] LGRP new stands according to FSDF new scenery
+[GROUND LAYOUT] LGSA new layout (stands) according to the new justsim scenery
+[ATZ] GA Airport ATZ
+[FIR COPX] Bug EVIVI is shown as FIR copx but ATFIR is the FP exit point.
+[GROUND LAYOUT] NEW groundlayout for LGZA according to the new scenery published
+[Other] Hold NAFNU & APZOC display missing
+[SID] LGKR NIKRO1C rwy 16
+[IAF] BEDEX and DIREX to be IAFs e.g BEDEXxRNAV34 
+#### LCCC
+WIP on neighbour vACC. v1903 Remains in use. They have been notified to fix it as soon as possible.
+
+
+### Changes from Release 1909 to Release 1913:
+#### LGGG
+AIRAC Cycle Updated
+[PROFILES] New feedback link added
+[ATIS] ATIS files removed, ATIS URL changed to UNIATIS (Audio For VATSIM)
+[PLUGINS] Audio For VATSIM Plugin Enabled by default
+[BUG] LGKR Procedures in wrong order fixed
+[AIRAC] LGSK new SID-STAR-COPX
+[AIRAC] LGKO RNP PROCEDURES
+[AIRAC] LGIO Procedures changed from RNAV TO RNP
+[AIRAC] LGAV Procedures changed. Changes on COPX/SIDs/STARs
+[SID] ASKOS1E instead of 1C for LGKV RWY23
+[COPX] DIGTI FL270 instead of 330 for LTFM inbound traffic according to LiveATC
+#### LCCC
+1.AIRAC Cycle Updated to 1913
+2.ATIS Files removed
+3.Profiles updated
+4.Added the Audio For VATSIM Plugin enabled by default
+
+
+### Changes from Release 1913 to Release 2002:
+#### LGGG
+-AIRAC Cycle Updated
+-Holding MORIX & XANAD
+-LGHI VORDME BUG
+-LGLM VORDME BUG
+-LGKC VORDME BUG
+-LGIR VOR B RWY 09 added
+-LGSR Ground Layout Updated
+-LGKO Ground Layout Updated
+-LGMT Changed to RNP
+-LGSR VOR A Rwy 17 added
+-KAVOS VFR WAYPOINT overlap
+-RNAV stars and SIDS at first priority LGKO
+-RNAV renamed RNP for LGTS,LGKO
+-LGSY all stars and approaches missing
+-BADEL4C instead of 4P
+-FIR COPX ROTAS 
+#### LCCC (Update-Package only)
+-AIRAC Cycle Updated
+
+
+### Changes from Release 2002 to Release 2004:
+#### LGGG
+-AIRAC Cycle Updated
+-LGMD TSL Sector Updated (LGMD_T_CTR)
+-Updated taxiways on LGTS, LGKF, LGSM, LGKV
+-New groundlayout for LGTT, LGMG, LGSO
+-LGIR SID RNP Departure
+-CODIC Point added LGRP
+-Bug fix on LGKO Groundlayout
+-Added procedures for LGBL
+-FOXLI,NILAS,LAKAD 1G X ILSY 24 priority LGRP
+-CODIC procedures for LGKO
+-New FIR points VANZA,OTHON,ANIDE added COPX and ALIAS
+-LGIO RNPZ Higher priority
+-Global COPX VEXOL added
+-ATV2E instead of ATV1E for LGAV
+#### LCCC
+1. AIRAC Cycle Updated to 2004
+2. New Ground Layout for LCPH and LCLK
+3. LCCC_CTR updated with new FIR waypoints
+4. Alias updated with new FIR waypoints
+
