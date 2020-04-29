@@ -134,3 +134,17 @@ AIRAC Cycle Updated
 2. New Ground Layout for LCPH and LCLK
 3. LCCC_CTR updated with new FIR waypoints
 4. Alias updated with new FIR waypoints
+
+### Changes from Release 2004 to Release 2005:
+#### LGGG
+1. AIRAC Cycle Updated
+1. RNAVRN renamed to RNP
+1. LGKV SIDs (Priority for 1A)
+1. New COPX for LGMT
+1. KEPIR withdrawn, replaced with OGSIL
+1. CODIC2D ILSZ instead of ILSY Preferable
+1. LGTS Groundlayout Bug (C/E)
+1. LGRP COPX IRBAX,FOXLI,NILAS
+1. LGHI new procedures (MOCNA/DESUG)
+#### LCCC
+1. TBA
