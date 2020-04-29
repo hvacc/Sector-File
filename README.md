@@ -37,11 +37,11 @@ To NDT κάθε μήνα θα δημιουργεί issues με πηγή τις �
 ## Προγραμματισμένα Release του sector file:
 AIRAC | Date | Milestone 
 ------------ | ------------- | -------------
-2004 | 06 APR 2020 | [2004 LG](https://github.com/hvacc/sector-file/milestone/8) [2004 LC](https://github.com/hvacc/sector-file/milestone/8)
+2005 | 30 APR 2020 | [2005 LG](https://github.com/hvacc/sector-file/milestone/9) [2005 LC](https://github.com/hvacc/sector-file/milestone/10)
 -------------------------
 
-Last Change: 15 APR 2020
+Last Change: 30 APR 2020
 
 By: Anastasios Mpithas
 
-Reason: Repository URL changed
+Reason: 2005 Release
