@@ -147,4 +147,6 @@ AIRAC Cycle Updated
 1. LGRP COPX IRBAX,FOXLI,NILAS
 1. LGHI new procedures (MOCNA/DESUG)
 #### LCCC
-1. TBA
+1. AIRAC Cycle updated
+1. REXAL Procedures re-enabled
+1. Enroute Holdings AZERE, PIKOG Added
