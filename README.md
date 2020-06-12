@@ -40,6 +40,6 @@ AIRAC | Date | Milestone
 
 Last Change: 30 APR 2020
 
-By: Anastasios Mpithas
+By: Vasilis Chalipilias
 
 Reason: 2005 Release
