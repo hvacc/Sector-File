@@ -41,6 +41,7 @@ AIRAC | Date | Milestone
 AIRAC | Date | Milestone 
 ------------ | ------------- | -------------
 2007 | 18 JUN 2020 | [2007 LG](https://github.com/hvacc/sector-file/milestone/10) [2007 LC](https://github.com/hvacc/sector-file/milestone/11)
+-------------------------
 
 Last Change: 30 APR 2020
 
