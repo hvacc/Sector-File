@@ -150,3 +150,49 @@ AIRAC Cycle Updated
 1. AIRAC Cycle updated
 1. REXAL Procedures re-enabled
 1. Enroute Holdings AZERE, PIKOG Added
+
+### Changes Release 2007 
+#### LGGG
+[AIRAC] AIRAC Cycle Update 2007
+
+[PLUGINS] AfvEuroScopeBridge Updated to Latest Version
+
+[SECTORS] LGGG_LGGGKVL 000·245 to LTXX·LTBB_FIR·000·245 Global dynPoint G32001 Corrected to borders
+
+[WAYPOINTS] KEPIR DELETED
+
+[SID] KEPIR 2K,3C,2A DELETED
+
+[COPX Points and Altitudes] SOTIV Corrected  to New sector LTBB_FIR 245*600 / LGGGRDS 245*325 
+
+[STAR] PITAS 2J Corrected to BEDEX-[IAF].Now is PITAS2JxRNAV:PITAS R335Y R261W BEDEX KR602 KR601 KR600
+#### LCCC
+[AIRAC] AIRAC Cycle Update 2007
+
+[PLUGINS] AfvEuroScopeBridge Updated to Latest Version
+
+[Holdings] [LCPH] Added ESERI Honding
+
+[SECTORS] LCCC New Sectorization (rebuilded from ALT000 to FL660)
+
+[SECTORS] LCCC_E_CTR 000·205 to OLBB_CTZ 000·460 Global dynPoint G19069 Corrected to borders
+
+[SECTORS] LCCC Bordres rebuilded 
+
+[Approach Transition] (LCPH) ESERI1P GIPRO1P NORDI1P TOBAL1P Corrected to ILS29-P
+
+[Approach Transition] Added ADLAS RNAV TO VISUAL RWY 22 (LCLK)
+
+[COPX Points and Altitudes] Removed GITLA_W, GITLA_N, GITLA_S, ORVIM, MERVA_LLHA, MERVA, DAVAR1, SOLIN, MERVA/FL260, DAVAR, TAMMI, MERVA/FL240,
+
+[COPX Points and Altitudes] Added DAFNA/FL260, KEREN, KONFO (LLLL) // ELIKA,BALMA,KUKLA (OLBB), NIKAS (OSTT)
+
+[Labels] LCLK Groundlayout added New Taxiways
+
+[Labels] LCLK Stector Groundlayout added New Holding Points
+
+[Labels] LCPH Stector Groundlayout added New Holding Points 
+
+[APP] (LCPH) Approach Transition ILS29-P VIA ESE1P GIP1P NOR1P TOB1P Corrected 
+
+[PRF & ASR Files] Updated ASR files to include new AoR lines instead of old GEO lines
