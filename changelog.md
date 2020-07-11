@@ -196,3 +196,6 @@ AIRAC Cycle Updated
 [APP] (LCPH) Approach Transition ILS29-P VIA ESE1P GIP1P NOR1P TOB1P Corrected 
 
 [PRF & ASR Files] Updated ASR files to include new AoR lines instead of old GEO lines
+
+### Changes Release 2008
+#### LGGG
