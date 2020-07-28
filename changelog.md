@@ -199,3 +199,27 @@ AIRAC Cycle Updated
 
 ### Changes Release 2008
 #### LGGG
+
+[SECTORS] LGGG Bordres Corrected with neighbours LTXX
+
+[LABELS] LGTS Added new taxiways
+
+[LABELS] LGAV Taxiways reworked 
+
+[LABELS] LGKR Taxiways A1,A2,A3 Fixed
+
+[REGIONS] LGTS New Groundlayout due to rwy 10/28 
+
+[REGIONS] LGAV Groundlayout Reworked according to real life
+
+[ASR PROFILE] New LGTS.asr
+
+[ASR PROFILE] New LGAV.asr
+
+#### LCCC
+
+[SECTORS] LCCC Bordres Corrected with neighbours LTXX - OSTT - LLLL
+
+[SECTORS] LCCC Coastline Cyprus Fixed
+
+[SECTORS] LCCC FIR border temporary fix 
