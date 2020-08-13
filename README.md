@@ -4,7 +4,7 @@
 ### Navigation Manager Team (NDT):
 > Director (ACCGR7): 
 
-> Contact at: https://talos.hvacc.org
+> Contact at: vasilis.chalipilias@hvacc.org
 
 ### Χρήσιμα Link:
 HvACC: https://hvacc.org
@@ -38,7 +38,7 @@ AIRAC | Date | Milestone
 2009 | 13 JUL 2020 | [2009 LG](https://github.com/hvacc/sector-file/milestone/10) [2009 LC](https://github.com/hvacc/sector-file/milestone/11)
 -------------------------
 
-Last Change: 13 JUN 2020
+Last Change: 13 JUL 2020
 
 By: Vasilis Chalipilias
 
