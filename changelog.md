@@ -223,3 +223,77 @@ AIRAC Cycle Updated
 [SECTORS] LCCC Coastline Cyprus Fixed
 
 [SECTORS] LCCC FIR border temporary fix 
+
+
+### Changes Release 2008
+#### LGGG
+
+[Airport Layout] Updated LGKR REGION 
+
+[SID,STAR] LGKR Star PARAX 1T Higher Priority
+
+[SID,STAR] LGKR Star PITAS 2S Higher Priority
+
+[SID,STAR] LGKR Star TIGRA 2R Higher Priority
+
+[Sector] New island coastline added (fleves)
+
+[Sounds] ATIS Sound Files Removed due to AFV not used
+
+[COPX Points and Altitudes] NEMES,ASTOV,VELOP DEP/CLIMB FL160 
+
+[COPX Points and Altitudes] SOREV DEP/CLIMB FL170 
+
+[COPX Points and Altitudes] VARIX DEP/CLIMB FL190
+
+[COPX Points and Altitudes] BADEL DEP/CLIMB REMOVED
+
+[COPX Points and Altitudes] OGSIL DEP/CLIMB FL 170
+
+[COPX Points and Altitudes] NEVRA DEP/CLIMB FL170
+
+[COPX Points and Altitudes] ROPOX DEP/CLIMB FL160
+
+[COPX Points and Altitudes] PIKAD DEP/CLIMB FL240
+
+[COPX Points and Altitudes] RILIN DEP/CLIMB FL160
+
+[COPX Points and Altitudes] RILIN ARR/DESCENT FL170
+
+[COPX Points and Altitudes] RIMAX DEP/CLIMB FL240
+
+[COPX Points and Altitudes] TUREN DEP/CLIMB FL170
+
+[COPX Points and Altitudes] GENDO DEP/CLIMB FL230
+
+[COPX Points and Altitudes] RAPOS DEP/CLIMB FL230
+
+[COPX Points and Altitudes] RIMAX ARR REMOVED DUE TO ONE WAY AIRWAY
+
+[COPX Points and Altitudes] NAVUS DEP/CLIMB FL150
+
+[COPX Points and Altitudes] NAVUS ARR/DESCENT FL110
+
+[COPX Points and Altitudes] MALED Corrected Flight Level For Arr.
+
+[COPX Points and Altitudes] NIKRO LGGGKRK to LAAA Climb FL280
+
+[COPX Points and Altitudes] TIGRA inbound from Italy Descent FL170 to Arr/LGKR
+
+[COPX Points and Altitudes] NOSTO inbound from Italy Descent FL170 to Arr/LGKR 
+
+[COPX Points and Altitudes] Added PITAS inbound From Adria Descent FL230 to Arr/LGPZ
+
+[COPX Points and Altitudes] PARAX Dep from LGKR FL110 as real
+
+[ALIAS] ..HANDOFF some text removed.
+
+[ROOT] HvACC_Aliases_Quick_Reference.pdf Updated
+
+[Settings] KEPATH TAG Updated
+
+#### LCCC
+
+[COPX Points and Altitudes] Added FIR [LCCC] TOMBI, DOREN, VESAR
+
+[PRF & ASR Files] LCCC [GEO] blue Taxiway_border can be activated in there own check box
