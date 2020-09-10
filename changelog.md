@@ -305,3 +305,22 @@ AIRAC Cycle Updated
 [COPX Points and Altitudes] Added FIR [LCCC] TOMBI, DOREN, VESAR
 
 [PRF & ASR Files] LCCC [GEO] blue Taxiway_border can be activated in there own check box
+
+### Changes Release 2009 V1 - V2  
+#### LGGG
+#### LCCC
+
+ALL The Sector rebuilded from the First Level to the end 
+
+no changelog being provided for new build
+
+### Changes Release 2010 
+#### LGGG
+
+[COPX Points and Altitudes] BELGI COPX Added
+[COPX Points and Altitudes] BANRO COPX Corrected
+
+#### LCCC
+
+[Positions] LCPH_APP FREQ Updated 120.800 to 130.625
+[Positions] LCPH_ATIS FREQ Updated 122.100 to 127.325 
