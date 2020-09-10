@@ -318,9 +318,11 @@ no changelog being provided for new build
 #### LGGG
 
 [COPX Points and Altitudes] BELGI COPX Added
+
 [COPX Points and Altitudes] BANRO COPX Corrected
 
 #### LCCC
 
 [Positions] LCPH_APP FREQ Updated 120.800 to 130.625
+
 [Positions] LCPH_ATIS FREQ Updated 122.100 to 127.325 
