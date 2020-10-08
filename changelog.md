@@ -326,3 +326,47 @@ no changelog being provided for new build
 [Positions] LCPH_APP FREQ Updated 120.800 to 130.625
 
 [Positions] LCPH_ATIS FREQ Updated 122.100 to 127.325 
+
+### Changes Release 2011
+#### LGGG
+
+
+[Groundlayout] LGRP_GND Reworked 
+
+[Labels] LGAV Obstructions Added at display options --> FreeText --> LGAV Obstructions
+
+[GEO] LGAV Custom centerline as the real added to Geo --> LGAV Centerlines Extended centerline rwy 03L-R
+
+[GEO] LGAV Custom centerline as the real added to Geo --> LGAV Centerlines Extended centerline rwy 21L-R
+
+[SECTOR] Background color change to black
+
+#### LCCC
+
+[AIRAC] AIRAC Cycle Updated 2011
+
+[COPX Points and Altitudes] NIKAS Added for OSLK Arr.
+
+[COPX Points and Altitudes] BALMA added
+
+[COPX Points and Altitudes] PASOS added
+
+[COPX Points and Altitudes] LAKTO added
+
+[COPX Points and Altitudes] RASDA added
+
+[Profiles] ATIS2:[This is] Removed for all profiles
+
+[ASR] LCPH and LCLK Groundlayout Reworked 
+
+[SECTOR] Background color change to black
+
+[Coastline] change color to real life
+
+[Fake borderline] Added airway N71 as tranfer of control to LLLL/OLBB
+
+[Fir border] Change color to real life 
+
+[Alias] Removed GITLA - ORVIM - DIRRE - LITAN
+
+
