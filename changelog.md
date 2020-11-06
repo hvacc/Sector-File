@@ -369,4 +369,7 @@ no changelog being provided for new build
 
 [Alias] Removed GITLA - ORVIM - DIRRE - LITAN
 
+### Changes Release 2012
+#### LGGG
+#### LCCC
 
