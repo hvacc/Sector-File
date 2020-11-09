@@ -371,5 +371,31 @@ no changelog being provided for new build
 
 ### Changes Release 2012
 #### LGGG
+
+[Positions]New position added Rodos Director LGRP_F_APP  118.250
+
+[Positions]New position added Iraklion Director LGIR_F_APP 118.025
+
+[Positions]New position added Kerkira Director LGKR_F_APP 118.075
+
+[Positions]New position added Thessaloniki Director LGTS_F_APP 118.275
+
+[SIDs] LGSA Change Priority to K
+
+[COPXs] Rutom,LORNO, added 
+
+[Euroscope] added to sector online traffic before login preview
+
 #### LCCC
 
+[Positions] Nicosia Radar / LCCC_CTR / NEW Freq / 124.200
+
+[Positions] New Sector added / Nicosia Radar / LCCC-H /Freq /129.550
+
+[Positions] Nicosia Radar South change Freq 128.600
+
+[Sector] New SQ Range for LCCC UP TO 176 SQs
+
+[Copx] TUZIB Added
+
+[Euroscope] added to sector online traffic before login preview
