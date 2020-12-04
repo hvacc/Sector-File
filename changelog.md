@@ -399,3 +399,12 @@ no changelog being provided for new build
 [Copx] TUZIB Added
 
 [Euroscope] added to sector online traffic before login preview
+
+### Changes Release 2013
+#### LGGG
+
+[AIRAC] AIRAC Cycle Update 2013
+
+#### LCCC
+
+[AIRAC] AIRAC Cycle Update 2013
