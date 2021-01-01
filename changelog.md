@@ -408,3 +408,31 @@ no changelog being provided for new build
 #### LCCC
 
 [AIRAC] AIRAC Cycle Update 2013
+
+### Changes Release 2014
+#### LGGG
+
+[Frequency] New frequency for LGGG_CTR 129.675
+
+[SECTOR] Bug Fixed on LGGGKFN Sector
+
+[Labels] LGAV_GND TWY D4 & E Designators added
+
+[Procedures] Added LGTS Vor Approach rwy 28 
+
+[STARs] THESSALONIKI / MAKEDONIA RWY 28 
+
+ARNAS 1K, ODIKO 1K, ALIKO 1K, EDASI 1K, LOPOS 1K, LEKPO 1K, OSMOS 1K
+
+#### LCCC
+[AIRAC] AIRAC Cycle Updated 2014
+
+
+
+
+
+
+
+
+
+
