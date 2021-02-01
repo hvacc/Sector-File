@@ -427,6 +427,17 @@ ARNAS 1K, ODIKO 1K, ALIKO 1K, EDASI 1K, LOPOS 1K, LEKPO 1K, OSMOS 1K
 #### LCCC
 [AIRAC] AIRAC Cycle Updated 2014
 
+### Changes Release 2101
+#### LGGG
+[AIRAC] AIRAC Cycle Updated 2101
+No Change!
+
+
+ARNAS 1K, ODIKO 1K, ALIKO 1K, EDASI 1K, LOPOS 1K, LEKPO 1K, OSMOS 1K
+
+#### LCCC
+[AIRAC] AIRAC Cycle Updated 2014
+[Holdings] DAROS Holding Added
 
 
 
