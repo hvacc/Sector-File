@@ -436,8 +436,25 @@ No Change!
 ARNAS 1K, ODIKO 1K, ALIKO 1K, EDASI 1K, LOPOS 1K, LEKPO 1K, OSMOS 1K
 
 #### LCCC
-[AIRAC] AIRAC Cycle Updated 2014
+[AIRAC] AIRAC Cycle Updated 2101
 [Holdings] DAROS Holding Added
+
+### Changes Release 2103
+#### LGGG
+[AIRAC] AIRAC Cycle Updated 2103
+
+[LABELS] LGSR Added missing taxiway [E]
+
+[LABELS] LGTS Rebuilded all labels according to real airport
+
+[Groundlayout] LGTS_GND.ASR Rebuilded from the scratch due to new terminal,aproan and rwy 10/28
+
+[Radarholes] LGSK added due to low signal of AFV
+
+#### LCCC
+[AIRAC] AIRAC Cycle Updated 2103
+
+[SECTOR] LCCC FIR Sector Boundaries rebuilded due to deleted from the neighbours 
 
 
 
