@@ -456,9 +456,66 @@ ARNAS 1K, ODIKO 1K, ALIKO 1K, EDASI 1K, LOPOS 1K, LEKPO 1K, OSMOS 1K
 
 [SECTOR] LCCC FIR Sector Boundaries rebuilded due to deleted from the neighbours 
 
+### Changes Release 2104
+#### LGGG
+
+[SECTOR] LGGG Boundaries corrected according to chart LG_Amdt_A_2021_04_en_2021-05-
+20_2 [AIP GREECE]
+[COPX Points and Altitudes] changes: PIROX departure LGRP CLIMB FL140
+[COPX Points and Altitudes] changes: VELOP CLIMB 170 | DESCENT 180 LGAV
+[COPX Points and Altitudes] changes: SIT DESCENT 160 LGSA
+[COPX Points and Altitudes] Added: AMISI Direct without coordination LGAV/DEP
+[COPX Points and Altitudes] Added: SKP Direct without coordination LGAV/DEP
+[COPX Points and Altitudes] Added: SITRU ARR| LTBJ | DESCENT 170
+[COPX Points and Altitudes] Added: SITRU DEP| LTBJ | CLIMB 160
+[COPX Points and Altitudes] changes: BENEM | LTBS | CLIMB 230
+[COPX Points and Altitudes] Added: EVIVI ARR| LBSF | DESCENT 280
+[COPX Points and Altitudes] changes: VEXOL revised
+[COPX Points and Altitudes] changes: SOTIV revised
+[NAV Procedures] Changes: Priority for ILS W RWY36R
+
+#### LCCC
 
 
-
+-01 [SIDs] LCLK | BONEK 1B, 1C, 1D, 1E (Removed)
+-02 [SIDs] LCLK | EMEDA & EMILI 1B & 1C (Removed)
+-03 [SIDs] LCLK | KOBER 1B & 1C (Removed)
+-04 [SIDs] LCLK | LUBES 2B,1C & 1D (Removed)
+-05 [SIDs] LCLK | PAFOS 1D (Removed)
+-06 [SIDs] LCLK | RUDER 2B & 1C (Removed)
+-07 [STARs] LCLK | PAFOS1R renamed PHA 1R. (Added)
+-08 [STARs] LCLK | LUBES 1R established. (Added)
+-09 [STARs] LCLK | BONEK 1R Procedure transferred: MSA. (Added)
+-10 [STARs] LCLK | PAFOS 2A renamed PHA 2A. (Added)
+-11 [STARs] LCLK | EMEDA & EMILI established. Procedure transferred (Added)
+-12 [STARs] LCLK | PAFOS 1C renamed PHA 1C. Procedure transferred (Added)
+-13 [SIDs] LCLK | EMEDA, EMILI, KOBER & RUDER 1W RNAV SIDs established. (Added)
+-14 [SIDs] LCLK | BONEK 1W renumbered 2W & revised. (Added)
+-15 [SIDs] LCLK | NORDI 1W established. MSA. (Added)
+-16 [SIDs] LCLK | EMEDA, EMILI, KOBER & RUDER 1D RNAV SIDs established. (Added)
+-17 [SIDs] LCLK | LUBES 1W established. (Added)
+-18 [SIDs] LCLK | PHA 1W transferred. (Added)
+-19 [SIDs] LCLK | RUBER 1C renumbered 2C & revised. (Added)
+-20 [SIDs] LCLK | BONEK 2C & 2D renumbered, revised & transferred. (Added)
+-21 [SIDs] LCLK | PHA 2D renumbered, revised & transferred. (Added)
+-22 [SIDs] LCLK | BONEK & PHA 2B Procedure transferred & revised. (Added)
+-23 [Airport] LCLK changes: MagVar. Bearings. Rwy 22 elev. New AOM concept
+-24 [NAV Procedures] VOR ILS Y RWY 22 | VOR ILS Y RWY 22 Changes: Thr elev. MSA. Bearings. Missed
+approach. Procedure. Minimums.
+-25 [NAV Procedures] Changes: Thr elev. MSA. Bearings. Missed approach. Wpt withdrawn. Minimums.
+-26 [NAV Procedures] Changes: NDB ILS RWY 22 (Removed)
+-27 [NAV Procedures] Changes: NDB RWY 04 (Removed)
+-28 [NAV Procedures] Changes: RNP TO ILS P RWY 22 Title renamed to (BOSIS 1P)
+-29 [NAV Procedures] Changes: RNP TO ILS P RWY 22 Title renamed to (SOBOS 1P)
+-30 [NAV Procedures] New Procedure RNP RWY 04 (Added)
+-31 [NAV Procedures] New Procedure RNP RWY 22 (Added)
+-32 [NAV Procedures] Changes: VOR DME Z RWY 04 | VOR DME X RWY 04 | VOR DME S RWY 04 | VOR
+DME Y RWY 04 Changes: Reference datum. MSA. Bearings. Missed apch. New AOM concept.
+-33 [NAV Procedures] Changes: ADLAS RNAV TO VISUAL RWY 22 | Changes: Reference datum. MSA.
+Bearings. Note withdrawn.
+-34 [COPX Points and Altitudes] LUBES ARR| LCLK | DESCENT 130 (Added)
+-35 [COPX Points and Altitudes] VESAR ARR | LCLK | DESCENT 290 (Added)
+-36 [COPX Points and Altitudes] VESAR DEP | LCLK | DESCENT 280 (Added)
 
 
 
