@@ -564,7 +564,40 @@ Bearings. Note withdrawn.
 
 -36 [COPX Points and Altitudes] VESAR DEP | LCLK | DESCENT 280 (Added)
 
+### Changes Release 2105
+#### LGGG
+
+[COPX Points and Altitudes] deleted:   FSK 
+[COPX Points and Altitudes] deleted:   MIL  
+[COPX Points and Altitudes] Added: ADESO Direct without coordination LGRP/DEP CB FL 120
+[COPX Points and Altitudes] Added: KOPAR Direct without coordination LGRP/DEP CB FL 120
+[COPX Points and Altitudes] Added: RIPLI Direct without coordination LGAV/DEP CB FL 190
+[COPX Points and Altitudes] Added: IXONI Direct without coordination LGAV/DEP CB FL 240
+[COPX Points and Altitudes] changes: NAVUS departure LGIR to LGSR CLIMB FL150
+[COPX Points and Altitudes] changes: NAVUS departure LGIR CLIMB FL150
+[COPX Points and Altitudes] changes: BAVES departure LGIR CLIMB FL120
+[COPX Points and Altitudes] Added: KAS Direct without coordination LGTS/DEP CB FL 140
+[COPX Points and Altitudes] changes: RIPID Arrival LGPZ Descent FL090
+
+[COPX Points and Altitudes] changes: ORMOS Arrival LGSM Descent FL110
+[COPX Points and Altitudes] changes: URNIL Arrival LGSM Descent FL110
+[COPX Points and Altitudes] changes: LARKI Arrival LGSM Descent FL110
+[COPX Points and Altitudes] changes: ORMOS departure LGSM Climb FL100
+[COPX Points and Altitudes] changes: URNIL departure LGSM Climb FL100
+[COPX Points and Altitudes] changes: LARKI departure LGSM Climb FL100
 
 
+                            [LoA]  2021/5
+[COPX Points and Altitudes] changes: DIMIS Arrival LATI Descent FL320
+[COPX Points and Altitudes] changes: TUMBO Arrival LATI Descent FL320
+[COPX Points and Altitudes] changes: VJOSA Arrival LATI Descent FL320
+[COPX Points and Altitudes] changes: NIKRO Arrival LATI Descent FL320
+[COPX Points and Altitudes] changes: PINDO Arrival LATI Descent FL320
+[COPX Points and Altitudes] changes: PINDO Departure LGTS to LAAA_CTR Climb FL300
+[COPX Points and Altitudes] changes: TALAS Arrival LWSK Descent FL260
+[COPX Points and Altitudes] changes: BITLA Arrival LWSK Descent FL260
+[COPX Points and Altitudes] changes: BITLA Arrival LWOH Descent FL200
 
+#### LCCC
+Νο Change Provided
 
