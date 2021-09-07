@@ -4,7 +4,7 @@
 ### Navigation Manager Team (NDT):
 > Director (ACCGR7): 
 
-> Contact at: vasilis.chalipilias@hvacc.org
+> Contact at: nav@hvacc.org
 
 ### Χρήσιμα Link:
 HvACC: https://hvacc.org
