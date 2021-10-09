@@ -650,3 +650,76 @@ VERDIKOUSA
 #### LCCC
 
 Νο Change Provided
+
+### Changes Release 2110
+#### LGGG
+
+[Files - Settings] – SOS - Directory of LGGG ASR Files Changed:
+[From LGGG - - ASR - - xxxx_GND ] 
+	     Separated 
+		To  
+[To LGGG - - ASR - - Procedural Service ASR - - XXXX.GND] Procedural Service ASR.
+[To LGGG - - ASR - - Radar Service ASR - - XXXX.GND] Radar Service ASR.
+
+[Plugins] Added: vSMR  added to Radar profiles of LGKR_GND LGAV_GND LGIR_GND LGTS_GND LGRP_GND
+
+[Airport Layout] Added – rebuilded :
+New LGAL, LGHI, LGIO, LGKF, LGKO, LGKR, LGLM, LGSA, LGSK, LGSM, LGSR, LGPA, LGSR, LGKV, LGMK, LGSM, LGMT, LGKF, LGPZ  airport layout (GEO and REGION – sctentries ).
+
+[PRF & ASR Files] Added: *** New Groundlayouts ***
+New Profile: LGMK_GND, LGSM_GND, LGMT_GND, LGKF_GND, LGPZ_GND LGKV_GND, LGPA_GND LGAL_GND, LGHI_GND, LGIO_GND, LGKF_GND, LGKO_GND, LGKR_GND, LGLM_GND, LGSA_GND,  LGSK_GND, LGSR_GND
+
+[sID, STAR] Changes - Priority:
+ LGKF Priority ARA2T , GARTA & ROTSA 1T deps
+LGSM Priority LARKI 3B & ORMOS 2B & URNIL 2B 
+
+
+[Profiles]  Changes  Positions defined as Information :
+AFIS airports:
+LGIK
+LGKP
+LGKY
+LGLE
+LGML
+LGNX
+LGPA
+LGPL
+LGSO
+LGST
+LGKA
+LGKC
+LGKZ
+LGKJ
+
+
+[COPX Points and Altitudes] Removed: OLIDA 
+
+[COPX Points and Altitudes] Added: PIKAD inbound LGAV descent FL250
+
+[COPX Points and Altitudes] changes: TRL departure LGKL climb FL160
+
+[COPX Points and Altitudes] Added: TRL arrival LGKL descent FL110
+
+[COPX Points and Altitudes] Added: MES arrival LGSM descent FL230 [LGMD-E -> LGGG-E]
+
+[COPX Points and Altitudes] Added: MES dep LGSM climb FL220 [LGMD-E -> LGGG-E]
+
+
+
+
+[SETTINGS] Added: PROFILE CONNECTION for LGGG-U_CTR & LGMD-U_CTR
+** [Special Sector to display traffic up to FL325 will be create if requested from the users]*** 
+
+[SETTINGS] changes: All ,Athens. Radar Renamed to .Athinai. radar
+
+[SETTINGS] Updated: PROFILE ASR for LGGG_GND
+
+#### LCCC 
+
+[Airport Layout] Added – rebuilded : New LCRA Groundlayout 
+
+
+[PRF & ASR Files] Added: New Profile LGRA_GND
+[PRF & ASR Files] Added: LCCC_CTR.asr 
+[PRF & ASR Files]  Added: LCCC_GND.asr added LCPH_GND & LCLK_GND & LCRA_GND
+
