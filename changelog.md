@@ -723,3 +723,27 @@ LGKJ
 [PRF & ASR Files] Added: LCCC_CTR.asr 
 [PRF & ASR Files]  Added: LCCC_GND.asr added LCPH_GND & LCLK_GND & LCRA_GND
 
+
+### Changes Release 2111
+#### LGGG
+
+[Borders] Fixed: Border Coordinates Between Hellenic & Turkey Vacc 
+
+[Lists] Fixed: The following Change added at: Folder Settings - SectorInboundList - SectorExitList - Departure List
+m_Column:aSSR:5:1:60:62:0:1::TopSky plugin::1:0.0
+m_Column:aSSR:5:1:60:0:31:1::::1:0.0
+
+
+#### LCCC
+
+-01 [STARs] LCPH | 11 | ESERI x RNP. (Added) + (Priority)
+
+-02 [STARs] LCPH | 11 | TOBAL x RNP. (Added) + (Priority)
+
+-03 [STARs] LCPH | 29 | NORDI1TxILS x X. (Added) 
+
+-04 [STARs] LCPH | 29 | TOBAL1T x ILS x X. (Added) 
+
+-05 [STARs] LCPH | 29 | NORDI1T x VORDME x X. (Added) 
+
+-06 [STARs] LCPH | 29 | TOBAL1T x VORDME x X. (Added) 
