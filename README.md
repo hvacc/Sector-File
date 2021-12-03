@@ -35,11 +35,11 @@ To NDT κάθε μήνα θα δημιουργεί issues με πηγή τις �
 ## Προγραμματισμένα Release του sector file:
 AIRAC | Date | Milestone 
 ------------ | ------------- | -------------
-2111 | 04/NOV/2021 | [2111 LG](https://github.com/hvacc/sector-file/milestone/11) [2111 LC](https://github.com/hvacc/sector-file/milestone/12)
+2112 | 03/DEC/2021 | [2112 LG](https://github.com/hvacc/sector-file/milestone/11) [2112 LC](https://github.com/hvacc/sector-file/milestone/12)
 -------------------------
 
-Last Change: 04 NOV 2021
+Last Change: 03 DEC 2021
 
 By: Vasilis Chalipilias
 
-Reason: 2111 Release
+Reason: 2112 Release
