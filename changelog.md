@@ -747,3 +747,48 @@ m_Column:aSSR:5:1:60:0:31:1::::1:0.0
 -05 [STARs] LCPH | 29 | NORDI1T x VORDME x X. (Added) 
 
 -06 [STARs] LCPH | 29 | TOBAL1T x VORDME x X. (Added) 
+
+
+### Changes Release 2113
+#### LGGG
+[Files - Settings] – SOS – Mrvas of LGAV_APP.ASR Files Changed:
+[MRVA LGGG SID SECTION ]  LGAV MRVA HAS REMOVED AND PLACED TO ARTCC-L AS STANDARD ALONE [LGAV MRVA SECTORIZATION]
+MRVA LGGG SID SECTION Separated for LGAV Airport Only.
+
+[COPX Points and Altitudes] Added 
+
+BANRO 
+BITLA
+DIMIS
+DISOR
+EKTOS
+IBTIN
+IXIMA
+PARAX
+RIPID
+LATAN
+PITAS
+NOSTO
+LUSES
+MAKED
+NEVRA
+NIKRO
+OLGAT
+PIKOS
+PITAS
+RUGAS
+RUTOM
+SOKRI
+SOTIV
+TALAS
+TIGRA
+VAXUS
+MALED
+
+#### LCCC
+
+[ASR] Added: LCLK_APP [RADAR VECTOR PROFILE] 
+[Sector] Added: New TMA LCLK
+[Sector] Added: MRVA 
+[Labels] Added: MRVAs 
+[Settings] Changes: Colors of TMA Change
