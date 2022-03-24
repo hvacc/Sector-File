@@ -953,3 +953,22 @@ LGGG·LGGGKAV·155·245
 LGGG·LGGGKAV·245·325
 LGGG·LGGGKAV·325·600
 
+### Changes Release 2203
+#### LGGG
+
+LGGG Sector is Underdevelopment. To be release in the next days.
+
+#### LCCC
+
+
+[NAV Sectors] Changes: Owners of Sectors: LCLK, LCPH, LCRA
+Now When LCCC -W_CTR or 
+			 LCCC-WL_CTR is open controls the above Airports.
+The Priority of Sectors Controls is below:
+LCCC-L_CTR
+LCCC-W_CTR
+LCCC_CTR         
+
+[NAV Sectors] bug Other Vacc :
+The user Chriss Klosowski from the vACC HECC is currently working on DynPoints V,DynPoints G,Sectors since 2022-02-24 18:19:01 and plans to be finished at 2022-04-21 22:18:00. If you release the package now it is likely that your files will be inconsistent.
+So the Sectors of HECC is not visible for the next month.
