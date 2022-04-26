@@ -972,3 +972,71 @@ LCCC_CTR
 [NAV Sectors] bug Other Vacc :
 The user Chriss Klosowski from the vACC HECC is currently working on DynPoints V,DynPoints G,Sectors since 2022-02-24 18:19:01 and plans to be finished at 2022-04-21 22:18:00. If you release the package now it is likely that your files will be inconsistent.
 So the Sectors of HECC is not visible for the next month.
+
+### Changes Release 2204
+#### LGGG
+
+[NAV, Sectors]  Fixed: Bug other vACC Sector  Display Line of Active Controller of HECC.
+[NAV, Sectors]  Added: New Fir Border LGGG as Published.
+[Settings] Changes: Mag Variation Corrected 24-APR-2022
+
+[Euroscope Sounds] Added: New Euroscope Sounds
+Listen the new sounds before use. (Folder LGGG\Sounds)
+[NAV Positions] Added: LGAV New Positions
+LGAV_P_GND	                        Ground 	121.800
+LGAV_E_APP	              Athinai Arrival	126.575
+•	ATC Department will be release guide for the use of these positions.
+[NAV, Sectors]  Added: [New Sector LGAV Ground Rebuilded from the scratch and
+ splitted to Sub Sectors]
+
+LGAV_GND			                       LGAV_S_GND
+
+LGAV_GND_03L21R	/sector				LGAV_GND_03R21L/sector	
+
+						
+  LGAV_GND_03L21R               and               LGAV_GND_03R21L 
+are two sector that has one Owner how is LGAV_P_GND 
+
+[*ATC Department will be release guide for the use of these positions]
+All Sector Subs Sector will make one Main Sector that will Control ALL ATHENS GROUND
+As LGAV_GND.
+
+[NAV, Sectors]  Added: [New Sector LGAV_E_APP | LGAV_E_APP  ATHENS ARRIVAL EAST
+
+•	ATC Department will be release guide for the use of this positions.
+
+[NAV, Sectors]  Changes: LGGG Sectoration Border Lines of LGMD-T & LGMD-K Corrected.
+[NAV Glo COPX] Bug: KUMBI fixed
+[NAV vACC COPX] Added: GIVIS TCC FL110 to LGIR
+[NAV vACC COPX] Added: GIVIS TCC FL110 to LGST
+[NAV vACC COPX] Removed: XAVIS 
+[NAV vACC COPX] Added: TRL inbound LGKL FL140
+[NAV vACC COPX] Added: See below the image. Only for LGAV_E_APP.
+
+[Sector-file-LGGG-Settings-[Profiles.txt] Changes:
+
+PROFILE:LGAV_GND:20:3
+ATIS2:Venizelos Ground
+ATIS3:ATIS on 136.125 - Available Gates/Charts on www.briefing.hvacc.org/
+ATIS4:Feedback on vats.im/gr/atcfb
+PROFILE:LGAV_S_GND:20:3
+ATIS2:Venizelos Ground
+ATIS3:ATIS on 136.125 - Available Gates/Charts on www.briefing.hvacc.org/
+ATIS4:Feedback on vats.im/gr/atcfb
+PROFILE:LGAV_P_GND:20:3
+ATIS2:Venizelos Ground
+ATIS3:ATIS on 136.125 - Available Gates/Charts on www.briefing.hvacc.org/
+ATIS4:Feedback on vats.im/gr/atcfb
+PROFILE:LGAV_E_APP:150:5
+ATIS2:Athinai Arrival
+ATIS3:ATIS on 136.125 - Charts on www.briefing.hvacc.org/
+ATIS4:Feedback on vats.im/gr/atcfb
+
+LGKR AIRPORT PROFILE Changes - lines 3,4
+ATIS3:ATIS on 126.350 - Charts on www.briefing.hvacc.org/
+ATIS4:Feedback on vats.im/gr/atcfb
+
+#### LCCC
+
+[NAV, Sectors]  Fixed: Bug other vACC Sector  Display Line of Active Controller of HECC.
+[sID, STAR]  Added: LCLK EMEDA 2B RWY 22
