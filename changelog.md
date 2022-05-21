@@ -1040,3 +1040,33 @@ ATIS4:Feedback on vats.im/gr/atcfb
 
 [NAV, Sectors]  Fixed: Bug other vACC Sector  Display Line of Active Controller of HECC.
 [sID, STAR]  Added: LCLK EMEDA 2B RWY 22
+
+
+### Changes Release 2205
+#### LGGG
+
+01 [NAV, Waypoints]  Added: New VFR LGSY points.
+KYRA PANAGIA
+SKANTZOURA
+SARAKINIKO
+SKYROPOULA
+KIMI
+OCHTHONIA
+SARAKINA
+BALTADOROS
+KOROS
+SIALMAS
+SKOPELOS
+
+02 [NAV, Alias]  Added:  	..VFR-LGSY
+
+03 [sID, STAR] Changes:: LATAN2B priority instead of LATAN2D
+
+
+#### LCCC
+
+01 [NAV Glo COPX] Changes: TOMBI inbound/outbound to LTAI (inbound set FL240 outbound set FL230)
+
+02 [NAV Glo COPX] Changes: ELIKA COPX FL180 outbound OLBA / same for DAFNA
+
+03 [sID, STAR]  FIXED: RNP11 at LCPH is not shown correctly 
