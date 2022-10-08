@@ -1070,3 +1070,43 @@ SKOPELOS
 02 [NAV Glo COPX] Changes: ELIKA COPX FL180 outbound OLBA / same for DAFNA
 
 03 [sID, STAR]  FIXED: RNP11 at LCPH is not shown correctly 
+
+
+### Changes Release 2210
+#### LGGG
+
+
+- 01	[NAV, Sectors]  Added: [AIRAC] LGSK Taxiway A split to A & H       
+
+- 02	[NAV, Sectors]  Added: LGZA Airport Apron extended due to GA Apron   
+
+- 03	[NAV vACC COPX] Added: LGZA via OSDES FL180 outbound and LGKF via LATAN FL180 outbound  
+
+- 04	[NAV vACC COPX] Removed: MANOK copx for LGSA. 
+
+
+- 05	[NAV, Sectors]  Priority: ASTUS2F, LASKO2F priority in LGZA  
+
+- 06	[NAV, Profile]  Added: New Profile LGSR_GND -  LGSR New Position & freq LGSR_GND  
+
+
+- 07	[NAV, Alias]  Added: Alias text added LGAV VFR New Points   
+i.	..VFR-LGAV1 .FF FLEVES PATROKLOS YDRA AGIOS GEORGIOS AGIOS THOMAS AIGINA ASTROS AVLAKI DAPORI EAST AIGINA HELLINIKON HOLARGOS KASTELLA KAVOURI KORINTHOS LOFISKOS MAKROS MANDILOU MEGARA MEROUTI
+..VFR-LGAV2 .FF NAFPLIO NORTH ANDROS ABEAM KEA NORTH SYROS PERATI PIKAD SOUTH KITHNOS SPETSAI STAVROS YIAROS NISSOS TINOS ASTOV EGN EAST POROS GERMI KEA KIATON KINETA
+..VFR-LGAV3 .FFABLONAS BADEL ELEFSINA EPIPDAVROS ILIOUP MARMARA MEGALO NEA MAKRI PARALIA ASTERIA RILIN SERIFOS SOREV VARIX VELOP KAFIREAS)
+
+- 08	[NAV, Airac]  Added: LGLM Airport Magnetic Variation annu. Change var5 
+- 09	[NAV, Position] Changes: LGMD-U_CTR wrong freq on AFV Coected   
+
+- 10	[NAV vACC COPX] Changes: SOTIV Corrected due to Sector renamed 
+
+
+- 11	[NAV, Stars]  Added: LGIR TIPUS 2L  
+
+- 12	[NAV,Sids]  Added: IRA 1N LGIR 
+
+
+
+#### LCCC
+
+No Changed Provided from AIP.
