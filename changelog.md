@@ -1110,3 +1110,24 @@ i.	..VFR-LGAV1 .FF FLEVES PATROKLOS YDRA AGIOS GEORGIOS AGIOS THOMAS AIGINA ASTR
 #### LCCC
 
 No Changed Provided from AIP.
+
+
+### Changes Release 2212
+#### LGGG
+
+- 01	[NAV, Procedures]  Added:] LGKL VOR W RWY 17R | ILS Z 35L | VOR Z 35L 
+
+- 02	[NAV, Global COPX]  Removed: LGKF LATAN   
+
+- 03	[NAV Owner Position] Changes: LTBA_E_APP" in list added [ ISTE |  "LTBA_L_APP" in list added [ ISTL  | LIRR_U_CTR" in list added [ RRU ]
+
+- 04	[NAV, Sectors] Added: LGTS rwy extensions 10/28 
+
+
+- 05	[NAV, Procedures]  Changes: LGSR Rnav Procedures to RNP
+
+- 06	[NAV, WayPoints]  Fixed: VARIX Duplicate Fixed
+
+#### LCCC
+
+No Changed Provided from AIP.
