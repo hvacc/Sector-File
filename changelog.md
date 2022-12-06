@@ -1119,15 +1119,25 @@ No Changed Provided from AIP.
 
 - 02	[NAV, Global COPX]  Removed: LGKF LATAN   
 
-- 03	[NAV Owner Position] Changes: LTBA_E_APP" in list added [ ISTE |  "LTBA_L_APP" in list added [ ISTL  | LIRR_U_CTR" in list added [ RRU ]
+- 03	[NAV Owner Position] Changes: LTBA_E_APP" in list added [ ISTE |  "LTBA_L_APP" in list added [ ISTL  | LIRR_U_CTR" in list added [ RRU ]  
 
 - 04	[NAV, Sectors] Added: LGTS rwy extensions 10/28 
 
-
-- 05	[NAV, Procedures]  Changes: LGSR Rnav Procedures to RNP
+- 05	[NAV, Procedures]  Changes: LGSR Rnav Procedures to RNP 
 
 - 06	[NAV, WayPoints]  Fixed: VARIX Duplicate Fixed
 
+- 07	[NAV, Procedures SID] Changes: LGIR Rnav to RNP
+
+- 08	[NAV, Procedures SID] Changes: LGPZ MALED 1J
+
+- 09	[NAV, Airports] Changes: LGTS Magnetic Variation annuall Change
+
+
 #### LCCC
+
+Owner not found in Position-List added to be Displayed
+
+LLPT_CTR : Pluto : 118.400 : PLU
 
 No Changed Provided from AIP.
