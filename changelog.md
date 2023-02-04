@@ -1141,3 +1141,17 @@ Owner not found in Position-List added to be Displayed
 LLPT_CTR : Pluto : 118.400 : PLU
 
 No Changed Provided from AIP.
+
+### Changes Release 2301
+#### LGGG
+
+
+- 01	[NAV, Procedures]  Changes:] LGIR Sid EPALO 1V Rnav Renamed to RNP 
+
+- 02	[NAV, WayPoints]  Added: LGKV VFR routes TMA   
+
+#### LCCC
+
+- 01	[NAV, Sector]  Added: LCCC-EL_CTR 
+- 02	[NAV, Position]  Added: LCCC-EL_CTR 
+- 03	[NAV,Frequency]  Added: LCCC-EL_CTR | 127.075
