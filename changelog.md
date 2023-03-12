@@ -1155,3 +1155,30 @@ No Changed Provided from AIP.
 - 01	[NAV, Sector]  Added: LCCC-EL_CTR 
 - 02	[NAV, Position]  Added: LCCC-EL_CTR 
 - 03	[NAV,Frequency]  Added: LCCC-EL_CTR | 127.075
+
+### Changes Release 2302
+#### LGGG & LCCC
+
+Changelog
+
+Released
+•	[COPX] BITLA Completed Issue fixed - #228
+•	[COPX] RUGAS | DISOR Completed Issue fixed - #227
+•	[COPX] ROPOX | KEA | DIMIS Completed Issue fixed #226
+•	[COPX] NIKRO Completed Issue fixed - #223
+•	[COPX] TALAS Completed Issue fixed - #222
+•	[COPX] DIMIS Completed Issue fixed - #221
+•	[COPX] BITLA Airac Completed Issue fixed - #219
+•	[COPX] RAPOS/GENDO inbound LGMK Completed Issue fixed #218
+•	[COPX] LATAN AND RUTOM Completed Issue fixed - #217
+•	[COPX] REVISED copx for LGRP Airac Completed Issue fixed - #216
+•	[COPX] REVISED copx XAVIS/GIVIS/LABUX/DELAV/SIT/ NAVUS Airac Completed Issue fixed #215
+•	[COPX] VESAR change Completed Issue fixed - #212
+
+Enhancement
+•	[HvACC Airport Briefing] Airac Airport Briefing Charts AIRAC #225
+•	[AIRAC] New VFR routes & points ATHINAI TMA Airac #224
+•	[SID] EPALO 1V priority than EPALO1T LGIR Airac #229
+•	[SID] BONEK2D higher priority than BONEK2W (LCLK) Completed Issue fixed - #220
+•	[AIRAC] New VFR routes & points ATHINAI TMA
+
