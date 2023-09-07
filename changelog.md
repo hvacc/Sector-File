@@ -1219,3 +1219,20 @@ COPX:LGZA::ASTUS:::LGGG·LGAD_APP·000·155:LGGG·LGGGKFN·125·155:14000::ASTUS
 COPX:LGZA::LASKO:::LGGG·LGAD_APP·000·155:LGGG·LGGGKFN·125·155:14000::LASKO STBY
 COPX:LGKF::LASKO:::LGGG·LGAD_APP·000·155:LGGG·LGGGKFN·125·155:14000::LASKO STBY
 [COPX] ASKOS FL170 dep LGTS removed
+
+### Changes Release 2309
+#### LGGG & LCCC
+
+NAV Sector 
+Eurocontrol Sectors Resectorization
+LGGG FIR Boundaries With LTXX are visible.
+FIR LCCC-OLBB  Reworked borders are visible.
+LTBA_APP -> IST_APP OWNERSHIP ADDED
+NAV SCT Entries 
+LGAV_DEL | No ownership granted for the next Controller Fixed
+LGTS_DEL | No ownership granted for the next Controller Fixed
+NAV Labels
+LGRP Stands, Numbers and gates names Reworked  G1 THRU G3
+NAV Procedures
+[APP] LGKR New Procedure LGKR | APP | RNP RWY 16 | Effective DAY 7 SE
+
