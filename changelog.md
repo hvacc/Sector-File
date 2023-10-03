@@ -1236,3 +1236,18 @@ LGRP Stands, Numbers and gates names Reworked  G1 THRU G3
 NAV Procedures
 [APP] LGKR New Procedure LGKR | APP | RNP RWY 16 | Effective DAY 7 SE
 
+### Changes Release 2310
+#### LGGG & LCCC
+
+1.	[NAV, Sectors] Changes : RECONSTRUCTION OF LGAV APP/TWR/GND (Forum)
+2.	[NAV, Copx]      Changes : REDRA 
+3.	[NAV, Labels]   Changes : LGIO Holding Points From North to South A->B->C as per AD2-LGIO-ADC
+4.	[NAV, Alias]   Changes :  Rebuilded Alias
+5.	[NAV,Plugins]   Added :  
+-Added TopSky and Ground Radar Plugin in the sector file to simulate RL items.
+-Added Automatic stand assignment for LGAV, LGTS, LGIR, LGRP and LGKR
+-Updated Lists with TopSky/GRP items
+-Added optional TopSky tags for controllers
+-Updated vSMR profile to match Real Life Tag
+-Fixed procedural airport ground display
+
