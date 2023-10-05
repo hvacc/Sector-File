@@ -2,7 +2,7 @@
 ![HvACC Logo](https://forum.hvacc.org/uploads/monthly_2019_02/hvacc-logo-1-1.png.8ecd658f966d7ab047b8c305c623ece1.png)
 
 ### Navigation Manager Team (NDT):
-> Director (ACCGR7): Vasilis Chalipilias
+> Director (ACCGR5): Vasilis Chalipilias
 
 > Contact at: nav@hvacc.org
 
