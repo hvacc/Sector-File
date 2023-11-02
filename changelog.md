@@ -1251,3 +1251,75 @@ NAV Procedures
 -Updated vSMR profile to match Real Life Tag
 -Fixed procedural airport ground display
 
+### Changes Release 2311
+#### LGGG
+
+[settings] Alias Correction prefix ..  - .
+
+[settings]  Profiles added info4line  
+
+	[COPX Points and Altitudes] COPX points for LGAV DEP
+
+	[COPX Points and Altitudes]  COPX points IXIMA dest LGSA FL310
+PIKOS dest LGTS FL310 , dep LGTS FL300
+PLH dest LGSA FL150 dep FL140
+VEDIX dest LGKR FL260
+PIKOS dep LGKR FL290
+Fixed problems with LGAV_DEP COPXs
+
+[POSITIONS] Changed LGAV callsigns: LGAV_GND -> LGAV_N_GND LGAV_TWR -> LGAV_E_TWR LGAV_APP -> LGAV_W_APP Changes IDs of the following positions: LGAV_DEL -> DEL LGAV_N_GND -> GRN LGAV_S_GND -> GRS LGAV_P_GND -> GRP LGAV_E_APP -> ARR1 Added Alexandria Tower LGAX_TWR freq 132.775 Changed LGSV_TWR freqeuncy to RL 132.725
+
+[Airport Layout] LGSY Groundlayout 
+
+[Airport Layout] LGKM Groundlayout  - Labels - remaing
+
+ [Profile]  Added LGSY_GND.ASR 
+
+ [Profile] Added LGAX_TWR
+
+[Plugins] Updated stands for LGKR, LGTS and LGRP to better detect aircraft occuping a gate
+
+
+
+
+
+
+	[Frequencies] New 8.33 kHz freq for Hellenic Fir according to VATSIM.
+
+LGAV	W	APP	R	132.975	132.975	132.975	Callsign change
+LGAV	E	TWR	R	118.625	118.625	118.625	Callsign change
+LGAV	N	GND	R	121.750	121.755	121.755	8.33KHz channel / Callsign change
+LGAV		DEL	R	118.675	118.680	118.680	8.33KHz channel
+LGAV	S	GND	R	121.950	121.955	121.955	8.33KHz channel
+LGAV	P	GND	R	121.800	121.805	121.805	8.33KHz channel
+LGAV	E	APP	R	126.575	126.575	126.575	
+LGAX		TWR	R	N/A	132.775	132.775	New position
+LGKF		ATIS		126.450	126.455	126.455	8.33KHZ channel
+LGKM		RDO	R	N/A	135.505	135.505	New position / 8.33KHz channel
+LGKO		ATIS	R	126.950	126.955	126.955	8.33KHz channel
+LGKR	F	APP	R	118.075	118.080	118.080	8.33KHz channel
+LGKR		GND	R	121.700	121.705	121.705	8.33KHz channel
+LGKR		TWR	R	120.850	120.855	120.855	8.33KHz channel
+LGKR		ATIS	R	126.350	126.355	126.355	8.33KHz channel
+LGKR		APP	R	122.350	122.355	122.355	8.33KHz channel
+LGKV		ATIS	R	128.150	128.155	128.155	8.33KHz channel
+LGMK		ATIS	R	128.850	128.855	128.855	8.33KHz channel
+LGRP		GND	R	121.700	121.705	121.705	8.33KHz channel
+LGSA		ATIS	R	130.175	130.180	130.180	8.33KHz channel
+LGSM		ATIS	R	127.050	127.055	127.055	8.33KHz channel
+LGSR		ATIS	R	126.450	126.455	126.455	8.33KHz channel
+LGSV		TWR	R	123.500	132.725	132.725	8.33KHz channel
+LGTS		TWR	R	118.100	118.105	118.105	8.33KHz channel
+LGTS		GND	R	121.700	121.705	121.705	8.33KHz channel
+LGTS		DEL	R	118.050	118.055	118.055	8.33KHz channel
+LGTS		ATIS	R	127.550	127.555	127.555	8.33KHz channel
+LGTS	F	APP	R	118.275	118.280	118.280	8.33KHz channel
+LGZA		ATIS	R	127.050	127.055	127.055	8.33KHz channel
+
+#### LCCC
+
+[Airport Layout] Updated LCLK REGION &  to match  Larnaca scenery MSFS
+
+[Airport Layout] Updated LCLK LABELS &  to match  Larnaca scenery MSFS
+
+
