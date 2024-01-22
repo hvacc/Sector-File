@@ -1,5 +1,5 @@
 ## Καλωσήρθατε στην σελίδα αλλαγών του Hellenic vACC Sector File 
-![HvACC Logo](https://forum.hvacc.org/uploads/monthly_2019_02/hvacc-logo-1-1.png.8ecd658f966d7ab047b8c305c623ece1.png)
+![HvACC Logo]([https://forum.hvacc.org/uploads/monthly_2019_02/hvacc-logo-1-1.png.8ecd658f966d7ab047b8c305c623ece1.png](https://hvacc.org/)
 
 ### Navigation Manager Team (NDT):
 > Director (ACCGR5): Vasilis Chalipilias
