@@ -1322,4 +1322,35 @@ LGZA		ATIS	R	127.050	127.055	127.055	8.33KHz channel
 
 [Airport Layout] Updated LCLK LABELS &  to match  Larnaca scenery MSFS
 
+### Changes Release 2401
+#### LGGG  - LCCC
+
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changeloghttps://github.com/hvacc/Sector-File/issues
+
+## [Released]
+
+### Added
+- LGRX_TWR frequency update for AIRAC 2401 (#279).
+- HvACC airport briefing charts update for AIRAC 2313-2401 (#278).
+- LGKM new apron SCT entries for AIRAC ground layout.
+
+### Changed
+- LGMK/MES COPX update (#283).
+- VELOP COPX update (#280).
+- NIKAS outbound LCLK global COPX(#275).
+
+### Fixed
+- LCPH-LCCC missing display line bug when both stations are online (#284).
+- AFV LGIR-LGKP fixes bug (#281).
+- Euroscope ARTCC L bug with TMAs and CTR towers transferred to ARTCC (#277).
+- Towers CTR missing bug with enhancement and feedback requested LGBL
+   LGIR-LGKO-LGKR-LGLM-LGLR-LGMT-LGSA-LGSR-LGTG-LGKL (#274).
+- LGTL CTR bug (#273).
+
+### Removed
+- LCA NDB withdrawal (#276).
 
