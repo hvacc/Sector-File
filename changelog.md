@@ -1354,3 +1354,42 @@ The format is based on [Keep a Changeloghttps://github.com/hvacc/Sector-File/iss
 ### Removed
 - LCA NDB withdrawal (#276).
 
+### Changes Release 2404
+#### LGGG  - LCCC
+
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
+
+## [Released]
+### Changed
+
+### COPX
+- #300: PIKOS change to LGTS. 
+- #299: FL 330 CHANGE TO FL310 + PUT LGMK FOR EKTOS AS WELL. 
+- #286: NIKRO DEP. 
+- #285: DIGTI to LTBB to be deleted. 
+
+### Added
+
+### AIRAC
+- #297: LGKP | NEW FREQ CONTROL BY IRAKION APP | 123.975. 
+- #296: Added | LGAV – ATHINAI/ ELEFTHERIOS VENIZELOS | NEW | PROCEDURES | RNP Approach.
+- #294: LGSR | Added | VFR routes SANTORINI. 
+- #292: LGSK | Removed - Renamed | VFR routes Skiathos. 
+- #289: LGRP | Changes - Renamed | VFR routes Diagoras
+- #288: LGKP | Added | VFR routes KARPATHOS AREA
+- #287: LGLM | Aprons and TWYs labels added, new TWYs, guidelines. 
+- #282: AIRAC | LGIR TMA EXPANSION | (KARPATHOS AREA) AIRAC 2403. 
+
+### FILES
+- #295: Alias | Added | LGSR | VFR | QuickVis alias. 
+- #293: Alias | Renamed - Removed | LGSK | VFR | QuickVis alias. 
+- #291: Alias | Renamed | LGRP | VFR | QuickVis alias. 
+- #290: Alias | Added | LGKP | VFR | QuickVis alias.
+
+
+
+
