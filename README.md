@@ -3,6 +3,7 @@
 
 ### Navigation Manager Team (NDT):
 > Director (ACCGR5): Vasilis Chalipilias
+> Deputy Director (ACCGR51): Ioannis Gaitaneris
 
 > Contact at: nav@hvacc.org
 
@@ -35,7 +36,7 @@ To NDT κάθε μήνα θα δημιουργεί issues με πηγή τις �
 ## Προγραμματισμένα Release του sector file:
 AIRAC | Date | Milestone 
 ------------ | ------------- | -------------
-2403 | 21/MAR/2024  | [2401 LG](https://github.com/hvacc/sector-file/milestone/11) [2403 LC](https://github.com/hvacc/sector-file/milestone/12)
+2403 | 21/MAR/2024  | [2403 LG](https://github.com/hvacc/sector-file/milestone/12) [2403 LC](https://github.com/hvacc/sector-file/milestone/11)
 -------------------------
 
 Last Change: 21/MAR/2024
