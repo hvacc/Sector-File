@@ -3,6 +3,7 @@
 
 ### Navigation Manager Team (NDT):
 > Director (ACCGR5): Vasilis Chalipilias
+>
 > Deputy Director (ACCGR51): Ioannis Gaitaneris
 
 > Contact at: nav@hvacc.org
