@@ -1390,6 +1390,56 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - #291: Alias | Renamed | LGRP | VFR | QuickVis alias. 
 - #290: Alias | Added | LGKP | VFR | QuickVis alias.
 
+## Changes Release 2405
+
+### LGGG
+
+### Added:
+
+- [AIRAC] LGTS | Added - Changed | VFR Points Thessaloniki (#301)
+- [POSITIONS] Lydia Radio LGKM_RDO on 135.505 (#306) 
+- [SECTOR] Lydia ATZ LGKM_RDO (#307)
+- [FILES] Profiles LGKM_RDO (#308)  
+- [SECTOR] Allow single runway operation with TWRW 136.275 LGAV (#310)   
+- [PLUGINS] Add vACDM for LGAV (#323)      
+- [PLUGINS] Topsky new CPDLC codes for LGGG (#329)
+
+### Changed: 
+
+- [FILES] Alias | Changed | LGTS | VFR | QuickVis (#302) 
+- [POSITIONS] Revision of Athinai and Makedonia ACC Positions (#313) 
+- [SECTOR] Change ownership in respect to new positions and priorities (#314)
+- [FILES] Revision of LGGG profiles (#316)
+- [AIRAC] CTR Check with 2405 (#318)
+- [FILES] Updated Departure and Startup lists to include vACDM times (#324)
+- [PLUGINS] Updated Ground Radar Plugin Files (#330)
+- [PROC] LGSA Runway change from 11/29 to 11L/29R (#331)
+
+### Fixed: 
+
+- [BUG] Fix KEA Coordinates (#303)
+- [AIRAC] 2405 NISYROS Coordinates (#304)
+- [BUG] LGTL ATZ Displayed with LGIR TMA (#309)
+- [BUG] PBN POINTS INSIDE LGAV TWR CTR (#312)
+- [BUG] Tower not displaying correctly when Director is online (IR,KR,RP,TS) (#319)
+- [BUG] LGTS E and G SIDs not displayed in the list (#320)
+- [BUG] SCT Entries | FIR border LGGG | Border near Rodos not displaying correctly (#321)
+
+### LCCC:
+
+### Added:
+
+- [PROC] LCPH | APP | Added | Missing Procedure RNAV to VISUAL Rwy 29 (#322)
+- [PLUGINS] Added vSMR Plugin for GND Display (#326)
+- [PLUGINS] Added Topsky and Ground Radar plugin to LCCC (#328)
+
+### Changed:
+
+- [POSITIONS] Revision of Nicosia ACC positions (#315)
+- [FILES] Revision of LCCC profiles (#317)
+- [Feature] Replaced | Sounds | EuroSounds Sound Package (#325)
+- [FILES] LCCC Alias updated (#327)
+
 
 
 
