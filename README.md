@@ -2,7 +2,7 @@
 <img src="https://hvacc.org/uploads/monthly_2019_02/hvacc-logo-1-1.png.8ecd658f966d7ab047b8c305c623ece1.png" width="auto">
 
 ### Navigation Manager Team (NDT):
-> Deputy Director (ACCGR51): Ioannis Gaitaneris
+> Director (ACCGR5): Ioannis Gaitaneris
 
 > Contact at: nav@hvacc.org
 
@@ -35,11 +35,5 @@ To NDT κάθε μήνα θα δημιουργεί issues με πηγή τις �
 ## Προγραμματισμένα Release του sector file:
 AIRAC | Date | Milestone 
 ------------ | ------------- | -------------
-2405 | 16/MAY/2024  | [2405 LG](https://github.com/hvacc/sector-file/milestone/12) [2405 LC](https://github.com/hvacc/sector-file/milestone/11)
+2406 | 13/JUN/2024  | [2406 LG](https://github.com/hvacc/sector-file/milestone/12) [2406 LC](https://github.com/hvacc/sector-file/milestone/11)
 -------------------------
-
-Last Change: 16/MAY/2024
-
-By: Ioannis Gaitaneris
-
-Reason: 2405 Release
