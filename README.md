@@ -35,5 +35,5 @@ To NDT κάθε μήνα θα δημιουργεί issues με πηγή τις �
 ## Προγραμματισμένα Release του sector file:
 AIRAC | Date | Milestone 
 ------------ | ------------- | -------------
-2406 | 13/JUN/2024  | [2406 LG](https://github.com/hvacc/sector-file/milestone/12) [2406 LC](https://github.com/hvacc/sector-file/milestone/11)
+2406 | 13/JUN/2024  | [2406 LG](https://github.com/hvacc/sector-file/milestone/15) [2406 LC](https://github.com/hvacc/sector-file/milestone/14)
 -------------------------
