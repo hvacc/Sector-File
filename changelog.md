@@ -1440,6 +1440,39 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [Feature] Replaced | Sounds | EuroSounds Sound Package (#325)
 - [FILES] LCCC Alias updated (#327)
 
+## Changes Release 2406
 
+### LGGG
 
+### Added:
+
+- [AIRAC] Labels | LGKC Ground (#335)
+- [AIRAC] Labels | LGPZ Ground | New TWY S instead of RWY 07R/25L (#337)
+- [COPX] LGKP ARRIVALS / DEPARTURES (#340)
+
+### Changed: 
+
+- [AIRAC] PROC | LGPZ | New RWY designators 06/24 instead of 07L/25R (#336)
+- [COPX] TRL inbound LGKL (#342)
+- [FILES] Settings | Departure & StartUp Lists | Updated vACDM items (#343)
+- [COPX] ERESO LGMT (#344)
+- [Labels] LGAV Ground | Renamed | Section of TWY E labelled as D4 to "TWY E" (#345)
+
+### Fixed: 
+
+- [BUG] SCT Entries | LGMT TMA + CTR | Not Drawn Correctly (#332)
+- [BUG] Files | ASR Ground Displays | LGKM, LGSY & LGZA | Ground not in focus (#333)
+- [BUG] Files | LGTS/LGKF/LGKM/LGKO/LGLM/LGPZ/LGSA/LGSR/LGSY/LGZA Ground ASRs | RWY Designators Missing (#339)
+
+### LCCC
+  
+### Added:
+
+- [AIRAC] SCT Entries & Labels | LCLK | New MRVAs (2406) (#334)
+
+### Changed:
+
+- [FILES] ASR | LCLK_APP | LCLK TMA & New MRVAs (2406) | Default Visibility (#338)
+
+  
 
