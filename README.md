@@ -1,17 +1,17 @@
-## Καλωσήρθατε στην σελίδα αλλαγών του Hellenic vACC Sector File 
+## Καλωσήρθατε στην σελίδα συνεννόησης και καταγραφής αλλαγών στα Sector Files του Hellenic vACC 
 <img src="https://hvacc.org/uploads/monthly_2019_02/hvacc-logo-1-1.png.8ecd658f966d7ab047b8c305c623ece1.png" width="auto">
 
-### Navigation Manager Team (NDT):
+### Navigation Department (Nav Dept):
 > Director (ACCGR5): Ioannis Gaitaneris
 
 > Contact at: nav@hvacc.org
 
 ### Χρήσιμα Link:
-HvACC: https://hvacc.org
+HvACC Main Page: https://hvacc.org/
 
-HvACC Forum: https://forum.hvacc.org
+HvACC Forums: https://hvacc.org/forums/
 
-AeroNAV GNG Files: http://files.aero-nav.com/LGGG & http://files.aero-nav.com/LCCC
+AeroNAV GNG Sector Packages: http://files.aero-nav.com/LGGG & http://files.aero-nav.com/LCCC
 
 ## Δημιουργία επικείμενων αλλαγών
 To NDT κάθε μήνα θα δημιουργεί issues με πηγή τις αλλαγές που δημοσιεύονται στο Hellas AIP. 
@@ -33,7 +33,11 @@ To NDT κάθε μήνα θα δημιουργεί issues με πηγή τις �
 Τα μέλη της κοινότητας μπορούν να αναφέρουν προτάσεις/προβλήματα σε σχετικό thread στο Forum (/link) και μέλη του NDT θα τα προσθέσουν στο GitHub.
 
 ## Προγραμματισμένα Release του sector file:
-AIRAC | Date | Milestone 
------------- | ------------- | -------------
-2406 | 13/JUN/2024  | [2406 LG](https://github.com/hvacc/sector-file/milestone/15) [2406 LC](https://github.com/hvacc/sector-file/milestone/14)
--------------------------
+
+| LGGG | AIRAC   | Date              | Milestone            |  ↔  | LCCC | AIRAC   | Date              | Milestone         |
+| :-:  | :-----: | :---------------: | :---------------:    | :-: | :-:  |:-----:  | :---------------: | :---------------: |
+| →    | 2409    | 05.09.2024        | [2409 LG](https://github.com/hvacc/Sector-File/milestone/16/) |     | →    | 2406    | 13.06.2024 | [2406 LC](https://github.com/hvacc/Sector-File/milestone/14/)|
+
+
+
+
