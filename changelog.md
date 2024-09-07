@@ -1474,5 +1474,72 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 
 - [FILES] ASR | LCLK_APP | LCLK TMA & New MRVAs (2406) | Default Visibility (#338)
 
+## Changes Release 2409
+
+### LGGG
+
+### Added:
+
+- [GND Networks] LGTS | New Ground Network Based on Current Airport Layout (#311)
+- [COPX] MADEX Inbound LGKO (#346)
+- [COPX] Free Directs EKTOS & IXIMA (KRK → MIL)  (#347)
+- [COPX] INKAB LGKP Arrivals (#354)
+- [COPX] TIPAS & INKAB LGIR Departures / Arrivals (#354)
+- [COPX] TIPAS LGST Departures / Arrivals (#354)
+- [COPX] NIKTI LGLM Arrivals (#366)
+- [PLUGINS] TopSky Maps | Automatic Display of LGAV PBN Points (2403) Based on RWY Configuration (#357)
+- [VFR Points] | LGAV | Missing Points (2311) (#356)
+- [VFR Points] | LGMT | Missing Points (2005) (#371)
+- [VFR Points] | LGTG | Missing Points (2303) (#379)
+- [VFR Points] LGAD VFR Points to Sector File (1905) (#375)
+- [VFR Points] LGKL VFR Points to Sector File (2009) (#376)
+- [VFR Points] LGBL VFR Points to Sector File (2303) (#378)
+- [VFR Rework] Plugins | TopSky Maps Draw for TMA and MTMA VFR Points (#352)
+
+## Changed:
+
+- [AIRAC] Positions | LGIR_ATIS | Frequency Change from 127.550 to 127.555 (#349)
+- [FILES] Profiles | Updated LGIR ATIS Frequency for LGIR Positions (2408) (#369)
+- [AIRAC] VFR Points | LGSM | BALOS and IREON Renamed to BALLOS and IRREON (#348)
+- [AIRAC] VFR Points | LGSA | BALOS and OSCAR Renamed to MPALOS and OSCARA (#350)
+- [AIRAC] VFR Points | LGKR | KAVOS, GARDI and PARGA Renamed to KAVOSS, GARDII and PARGAA (#360)
+- [AIRAC] VFR Points | LGPA | FANOS and NAXOS Renamed to FANNOS and NAKSOS (#361)
+- [VFR Points] LGTS | Updated Coordinates of Points with Undocumented Coordinates (2405) (#362)
+- [SCT Entries & Labels] MRVAs | LGAV MRVA Rework (#374)
+- [AIRAC] PROC | LGAV | SIDs | KRO 1E/1H/1M/1N Renamed to KRO 2E/2H/2M/2N (#359)
+- [AIRAC] PROC | LGKR | APP | RNAV 34 Renamed to RNP 34 (#381)
+- [FILES] ASR | LGAV/LGIR/LGTS TWR ASRs Deprecated (#382)
+- [FILES] Settings | Departure List | Ground State Item via GroundRadar Plugin (#383)
+
+## Fixed:
+
+- [BUG] LGKR | Coordination Request for KR602 / KR164 when Tower is Online (#358)
+- [BUG] Sectors & SCT Entries | LGKA_TWR (CTR) | Sector not Limited by FIR Boundary (#368)
+- [COPX] NIKTI LGTS Arrivals (#370)
+- [COPX] NIKTI LGKV Arrivals (#370)
+- [COPX] NIKTI LGMT & LGLM Arrivals (#370)
+- [COPX] OLGAT / TIGRA / LATAN / DINOB LGKR Departures (#372)
+- [COPX] TIGRA / NOSTO / LATAN / DINOB LGKR Arrivals (#372)
+- [COPX] TIGRA / NOSTO / LATAN / DINOB Inbound LGPZ (#377) 
+- [COPX] PITAS Inbound LGPZ (#377)
+- [BUG] VFR Points | LGAV | Points with Incorrect Coordinates (2311) (#356)
+- [BUG] VFR Points | LGIR | Points with Incorrect Coordinates (1704) (#365)
+- [BUG] VFR Points | LGRP | Points with Incorrect Coordinates (2405) (#367)
+- [BUG] VFR Points | LGTG | Points with Incorrect Coordinates (2303) (#379)
+- [VFR Rework] Fixed VFR Points Not Read Properly by EuroScope (#352) 
+- [BUG] PROC | LGTS | No Priority for MKR-based SIDs for RWY 10 (#373)
+- [BUG] Files | Settings | Departure List | ATYP Item Missing (#383)
+
+## Removed
+
+- [GND Networks] LGTS | Ground Network Based on Old Airport Layout (#311)
+- [COPX] DELAV LGIR / LGST Departures & Arrivals (#355)
+- [COPX] NILVA LGLM Departures & Arrivals (#363)
+- [FILES] Alias | Removed VFR QuickVis Aliases (#380)
+
+
+
+
+
   
 
