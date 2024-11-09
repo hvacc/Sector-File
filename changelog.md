@@ -1496,7 +1496,7 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [VFR Points] LGBL VFR Points to Sector File (2303) (#378)
 - [VFR Rework] Plugins | TopSky Maps Draw for TMA and MTMA VFR Points (#352)
 
-## Changed:
+### Changed:
 
 - [AIRAC] Positions | LGIR_ATIS | Frequency Change from 127.550 to 127.555 (#349)
 - [FILES] Profiles | Updated LGIR ATIS Frequency for LGIR Positions (2408) (#369)
@@ -1511,7 +1511,7 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [FILES] ASR | LGAV/LGIR/LGTS TWR ASRs Deprecated (#382)
 - [FILES] Settings | Departure List | Ground State Item via GroundRadar Plugin (#383)
 
-## Fixed:
+### Fixed:
 
 - [BUG] LGKR | Coordination Request for KR602 / KR164 when Tower is Online (#358)
 - [BUG] Sectors & SCT Entries | LGKA_TWR (CTR) | Sector not Limited by FIR Boundary (#368)
@@ -1530,14 +1530,43 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [BUG] PROC | LGTS | No Priority for MKR-based SIDs for RWY 10 (#373)
 - [BUG] Files | Settings | Departure List | ATYP Item Missing (#383)
 
-## Removed
+## Removed :
 
 - [GND Networks] LGTS | Ground Network Based on Old Airport Layout (#311)
 - [COPX] DELAV LGIR / LGST Departures & Arrivals (#355)
 - [COPX] NILVA LGLM Departures & Arrivals (#363)
 - [FILES] Alias | Removed VFR QuickVis Aliases (#380)
 
+## Changes Release 2411
 
+### LGGG
+
+### Added:
+
+- [PROC] APP | LGSO - LGML | Circling Approaches (#123)
+- [COPX] USINI – ETERU | LGRP Arrivals (#384)
+- [AIRAC] PROC | STARs | LGKL | New IBTAG 1F (#388)
+- [Files, SCT Entries, Regions, Labels] Ground ASRs | New Updated LGAV Ground Layout/ASR (#396)
+
+### Changed:
+
+- [HOLDINGS] Holding Check with 2411 (#385)
+- [AIRAC] PROC | SIDs | LGKL | BERAP 1A/1C instead of RESPA 1A/1B , ANEPI 1A instead of TRL 1A & IPTAG 1C instead of TRL 1B (#387)
+- [AIRAC] PROC | STARs | LGKL | BERAP 1F/1G instead of RESPA 1F/1G (#388)
+- [PROC] STAR/APP | LGKL | Remove Duplicate Procedures (#393)
+- [AIRAC] VFR Points | LGKL | Points ELAFI, KARDA, LEONI renamed to ELAFON, KARDAMI and LEONID (#389)
+- [AIRAC] PROC | LGKR | OLGAT / TIGRA 2B instead of OLGAT / TIGRA 1B (#390)
+- [AIRAC] Positions | LGRP_ATIS | Frequency Change | 130.255 (#391)
+- [FILES] Profiles | Updated LGRP ATIS Frequency for LGRP Positions (#392)
+- [PLUGINS] vSMR | Do not autocorrelate Squawk 1234 (#394)
+- [PLUGINS] GroundRadar | Stands | Adjusted Assignment Algorithm for A380 Ops (+ wider wingspan traffic in general) (#397)
+- [PLUGINS] TopSky | Neighbour CPDLC Logons Updated & UNICOM --> Advisory ( - )
+- [FILES] Alias | UNICOM --> Advisory & “Have a nice flight” removed ( - )
+- [FILES] Rwy File | Updated Predefined Rwy Selections for year 2024 changes (#395)
+
+### Fixed:
+
+- [COPX] ALIKI | LGIR Arrivals (#384)
 
 
 
