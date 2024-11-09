@@ -1530,7 +1530,7 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [BUG] PROC | LGTS | No Priority for MKR-based SIDs for RWY 10 (#373)
 - [BUG] Files | Settings | Departure List | ATYP Item Missing (#383)
 
-## Removed :
+### Removed :
 
 - [GND Networks] LGTS | Ground Network Based on Old Airport Layout (#311)
 - [COPX] DELAV LGIR / LGST Departures & Arrivals (#355)
