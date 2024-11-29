@@ -1568,7 +1568,28 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 
 - [COPX] ALIKI | LGIR Arrivals (#384)
 
+## Changes Release 2412
 
+### LCCC
 
-  
+### Added:
 
+- [Sector, SCT Entries] LCLK3 TMA Part (#398)
+
+### Changed:
+
+- [POSITIONS] LCRA_TWR | Frequency Correction to 130.075 (#400)
+- [PROC] LCLK/LCPH | Procedure Combiner Reorganisation (#405)
+- [FILES] General Settings | Changed LCCC default Transition Altitude to 9000ft (#406)
+- [FILES] Settings | Departure List | Ground State Item via GroundRadar Plugin (identical to #383)
+- [PLUGINS] vSMR | Do not autocorrelate Squawk 1234 (identical to #394)
+- [PLUGINS] TopSky CPDLC | Minor Position Fixes & UNICOM --> Advisory ( - )
+- [FILES] Alias | UNICOM --> Advisory , “Have a nice flight” removed, Added .OFFC, QNH removed from push/start clearance ( - )
+- [HOLDINGS] Holding Check with 2412 (LCCC) (#407)
+
+### Fixed:
+
+- [BUG] No display lines to LCCC when LCRA_APP online (#401)
+- [BUG] Ownership of LCRA by LCLK_APP (#402)
+- [BUG] Profiles | LCPH Positions Incorrect Callsign Spelling (#403)
+- [BUG] Plugins | TopSky Airspace | LCPH Initial CFL to ESERI/NORDI/RIMEX FL120 incorrect (#404)
