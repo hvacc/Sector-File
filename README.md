@@ -45,7 +45,7 @@ AeroNAV GNG Sector Packages: http://files.aero-nav.com/LGGG & http://files.aero-
 
 | LGGG | AIRAC   | Date              | Milestone            |  ↔  | LCCC | AIRAC   | Date              | Milestone         |
 | :-:  | :-----: | :---------------: | :---------------:    | :-: | :-:  |:-----:  | :---------------: | :---------------: |
-| →    | 2413    | TBA        | [2413 LG](https://github.com/hvacc/Sector-File/milestone/19) |     | →    | 2412    | 28.11.2024 | [2412 LC](https://github.com/hvacc/Sector-File/milestone/18) |
+| →    | 2501    | TBA        | [2501 LG](https://github.com/hvacc/Sector-File/milestone/19) |     | →    | 2412    | 28.11.2024 | [2412 LC](https://github.com/hvacc/Sector-File/milestone/18) |
 
 
 
