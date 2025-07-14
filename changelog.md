@@ -1650,3 +1650,15 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [COPX] TSL (LGMD <-> LGSK_APP) (#422)
 - [PROC] APP | LGRP | ILS Y and ILS Z Rwy 24 (#429)
 - [AIRAC] SCT Entries/Labels | LGMT Groundlayout | Stands S2 & S3 (2411) (#443)
+
+### LCCC
+
+### Added: 
+
+- [POSITIONS] ANK_W78_CTR
+- [PLUGINS] TopSky | SSRCodes
+
+### Changed:
+
+- [FILES] Sounds | Coordination Sounds as #428
+
