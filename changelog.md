@@ -1593,3 +1593,60 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [BUG] Ownership of LCRA by LCLK_APP (#402)
 - [BUG] Profiles | LCPH Positions Incorrect Callsign Spelling (#403)
 - [BUG] Plugins | TopSky Airspace | LCPH Initial CFL to ESERI/NORDI/RIMEX FL120 incorrect (#404)
+
+## Changes Release 2507 (2413 REV1)
+
+### LGGG
+
+### Added: 
+
+- [SECTORS] LGSR_GND Sector (#414)
+- [FILES] Settings | Profiles | Entry for LGSV_TWR (#421)
+- [COPX] IBIDI (LGMD <-> LGSK_APP) (#422)
+- [AIRAC] PROC | LGSK | SIDs | E/F RNP Deps (2503) (#423)
+- [AIRAC] PROC/Holdings | SID/STAR/APP | LGMK | New RNP16 APP + Holding, RNP1 SIDs/STARs 16/34 (2506) (#438)
+- [COPX] BISMO LGMK Deps (#440)
+- [Files, SCT Entries, Regions, Labels] Ground ASRs | Ground Layouts LGBL & LGKL (#441)
+- [SCT Entries/Labels] LGMT Groundlayout | Stand 4 Line (#443)
+- [SECTORS] LGAV/LGIR/LGKR/LGRP/LGTS FIN Sectors as "GUEST" to relative APP Sectors (#444)
+- [AIRAC] Labels | LGHI Ground | Taxiway Designators (2507) (#445)
+- [PLUGINS] GRPluginStands | LGAV New Stands B7x-B8x, New GA Apron (#446)
+- [POSITIONS] ANK_W78_CTR
+- [PLUGINS] TopSky | SSRCodes
+
+### Changed:
+
+- [AIRAC] VFR Points | LGMT | Points FOKAS, MIMIS, PANOS, POLIS Renamed (2413) (#409)
+- [Sectors, SCT Entries] LGLR MTMA Sectors Merged (#410)
+- [AIRAC] VFR Points | LGLR | Renamed Points NIKEAS, PLATAS and GONNOI (2413) (#411)
+- [SCT Entries & Labels] LGTS/LGKR/LGRP/LGIR MRVA Rework (#419)
+- [FILES] Settings | Profiles | Change Andravida Radar to Andravida Approach (#420)
+- [AIRAC] PROC | LGSK | SID/STAR | IBIDI 1 A/B/C instead of TSL 1 A/B/C (2503) (#424)
+- [AIRAC] Labels | LGSA Ground | Twy I renamed to Twy P (2504) (#425)
+- [FILES] Profiles/Sounds | Sector Package EuroSounds Sounds Reorganisation (#428)
+- [PROC] LGRP | PRIORITY to SIDs BASED ON PAR VOR (#431)
+- [SCT Entries/Labels] Updated LGKO Groundlayout as per current layout (#432)
+- [PROC] STAR | LGSA | RUSOS 2X Priority over RUSOS 2G (#433)
+- [AIRAC] VFR Points | LGTS | Point PANOMI renamed to EPANOM and New Coordinates for Points (2506) (#435)
+- [AIRAC] Sectors/SCT Entries | LGMK | Updated TMA Lateral Limits (2506) (#436)
+- [AIRAC] PROC/Holdings | LGMK | RNAV34 renamed to RNP34, Updated Inbd CRS MKN Hold (RNP34) (2506) (#437)
+- [POSITIONS] LIBB_CTR --> LIBB_ES3_CTR
+
+### Fixed:
+
+- [COPX] ARNAS LGTS dep/arr (#399)
+- [Sectors, SCT Entries] LGLR MTMA Boundary Fix (#410)
+- [BUG] Sectors | LGGGMIL - LGGGSIT - LGSR_APP | Sector Overlap (#412)
+- [BUG] Sectors | LGMK_APP - LGAV_APP/DEP - LGSO_TWR - LGGGRDS | Uncovered Airspace (#413)
+- [Sectors/Positions] LGSR_GND | No Active Airport for Position (#414)
+- [BUG] COPX | LGKL Deps/Arrs Correction (#415)
+- [BUG] Files | Ground ASR | LGKO | Display locked by default (#418)
+- [BUG] SCT Entries | LGZA & LGKF Groundlayouts | Remove Blue Border (#427)
+- [BUG] SCT Entries | Groundlayout LGSY | No color for lines (#430)
+- [BUG] PROC | STAR | LGSA | PLH 1G/1X/1W/1V, BAVES 1W/1V & OTREX 1X/1V SUD IAF (#439)
+
+### Removed:
+
+- [COPX] TSL (LGMD <-> LGSK_APP) (#422)
+- [PROC] APP | LGRP | ILS Y and ILS Z Rwy 24 (#429)
+- [AIRAC] SCT Entries/Labels | LGMT Groundlayout | Stands S2 & S3 (2411) (#443)
