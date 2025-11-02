@@ -1662,3 +1662,33 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 
 - [FILES] Sounds | Coordination Sounds as #428
 
+## Changes Release 2510
+
+### LCCC
+
+- Release with Navigraph Navdata
+
+## Changes Release 2511
+
+### LGGG
+
+### Added:
+
+- [Positions/Sectors/SCT Entries] LGKS_TWR (#447)
+- [LABELS] Ground | LGSR | Add Label for Apron Taxiway K (#456)
+
+### Changed:
+
+- Procedure Combiner Adjustments due to change of NavData Source
+- [SETTINGS] Magnetic Variation +4.4 to +5 degrees (#454)
+- [SCT Entries] Removed “New*” from LGAV TMA/CTR Entry Names
+- [PLUGINS] TopSkyCPDLC | Corrected LIBB_ES3_CTR Login Code
+- [PLUGINS] GroundRadar | Removed “Heavy” Capability for LGAV Stands B71 & B73
+- [PLUGINS] GroundRadar | LGAV Satellite group corrections
+
+### Fixed:
+
+- [BUG] Sectors/SCT Entries | LGKY_TWR | Defined as 5NM instead of 2NM (#452)
+- [BUG] Sectors/SCT Entries | LGRX_TWR | Sector defined incorrectly (#453)
+- [BUG] Positions/Profiles | LGKA_TWR & LGKZ_TWR Callsigns (#455)
+
