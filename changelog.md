@@ -1692,3 +1692,41 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [BUG] Sectors/SCT Entries | LGRX_TWR | Sector defined incorrectly (#453)
 - [BUG] Positions/Profiles | LGKA_TWR & LGKZ_TWR Callsigns (#455)
 
+## Changes Release 2512
+
+### LGGG
+
+### Added:
+
+- [SCT Entries] LGGG-LTXX NOTAM Restricted Area (#458)
+- [AIRAC] PROC | LGMT | RNP1 SIDs (E/G) & STARs (D/F) (#462)
+- [COPX] FIR COPX LUTIG LGGG <--> LCCC (#464)
+
+### Changed:
+
+- [AIRAC] 2512 Airway Changes (#468)
+- [PLUGINS] TopSky | Settings | Adjusted “Redundant” colour to match default symbology
+
+### LCCC
+
+### Added:
+
+- [PLUGINS] TopSky | Map Draw for VRPs and VFR Training Areas (#450)
+- [COPX] BALMA LCLK Deps/Arrs (#463)
+- [COPX] FIR COPX LUTIG LGGG <--> LCCC (#464)
+- [PLUGINS] TopSky | SSRCodes | LCLK/LCPH VFR Squawk Ranges (#465)
+- [PLUGINS] GroundRadar | Stands | Additions to “CALLSIGN” parameters of certain LCLK stands
+
+### Changed:
+
+- [FILES] LCCC_CTR/LCLK_APP/LCPH_APP ASRs | Default Tag Group HvACC --> HvACC (TopSky) (CC:#466)
+
+### Fixed:
+
+- [VFR Points] Points not read properly by ES (#450)
+- [BUG] VFR Points | LCLK | Points with Incorrect Coordinates/Spelling and Missing Points (#459)
+- [BUG] VFR Points | LCPH | Points with Incorrect Coordinates/Spelling (#460)
+- [BUG] TopSky tag/list item colour mismatch with LCCC default colours (#466)
+- [BUG] SCT Entries | Minor LCCC FIR Border discrepancies with AoR (#467)
+
+
