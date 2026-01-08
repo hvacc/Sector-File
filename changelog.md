@@ -1729,4 +1729,24 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [BUG] TopSky tag/list item colour mismatch with LCCC default colours (#466)
 - [BUG] SCT Entries | Minor LCCC FIR Border discrepancies with AoR (#467)
 
+## Changes Release 2513
+
+### LGGG
+
+### Added:
+
+- [Files, SCT Entries, Regions, Labels] Ground ASRs | Ground Layout LGRX (#457)
+
+### Changed: 
+
+- [AIRAC] Labels | LGAV Ground | Rename TWY I --> TWY P & Holding Points D13 --> D14 and D12 --> D13 (RWY 21L) (#469)
+- [AIRAC] Regions/SCT Entries/Labels | LGSO Ground 2513 Changes (#470)
+- [PLUGINS] vSMR | Ground Speed in G\d{3} format (#475)
+- [Regions, SCT Entries, Labels] LGAV_GND_NEW Minor Rework for 2513 (#476)
+- [FILES] Settings | Departure List | Default Sort Field : “Clearance Received” flag
+
+### Fixed: 
+
+- [BUG] Plugins | GroundRadarSettings | LD* missing from Schengen Area (#477)
+- [LABELS] LGTS Ground | Stands 01-09 corrected to 1-9 (#478)
 
