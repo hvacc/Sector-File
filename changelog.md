@@ -1750,3 +1750,23 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [BUG] Plugins | GroundRadarSettings | LD* missing from Schengen Area (#477)
 - [LABELS] LGTS Ground | Stands 01-09 corrected to 1-9 (#478)
 
+## Changes Release 2602
+
+
+### LCCC
+
+### Added:
+
+- [COPX] APLON/EMEDA/IDAKU LCPH Deps/Arrs (#472)
+- [COPX] VELOX OLBA Deps (#473)
+- [COPX] AGUZO OLBA Arrs (#474)
+
+Changed:
+
+- [COPX] VESAR LCLK Deps/Arrs (#471)
+- [AIRAC] Plugins | GroundRadarStands | Remove auto-assignment for cancelled stands 15-22(A) (#481)
+
+Fixed:
+
+- [BUG] Plugins | GroundRadarSettings | LCCC Airport Elevation values incorrect (#480)
+- [BUG] Sectors | LCLK / LCPH Tower ATZ correction (#482)
