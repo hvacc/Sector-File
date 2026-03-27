@@ -1761,12 +1761,30 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [COPX] VELOX OLBA Deps (#473)
 - [COPX] AGUZO OLBA Arrs (#474)
 
-Changed:
+### Changed:
 
 - [COPX] VESAR LCLK Deps/Arrs (#471)
 - [AIRAC] Plugins | GroundRadarStands | Remove auto-assignment for cancelled stands 15-22(A) (#481)
 
-Fixed:
+### Fixed:
 
 - [BUG] Plugins | GroundRadarSettings | LCCC Airport Elevation values incorrect (#480)
 - [BUG] Sectors | LCLK / LCPH Tower ATZ correction (#482)
+
+## Changes Release 2603
+
+### LGGG
+
+### Added:
+
+- [AIRAC] PROC | LGRP | New RNAV SIDs (#487)
+- [AIRAC] PROC/Holdings | LGRP | New RNAV/RNP STARs & APPs (#488)
+
+### Changed: 
+
+- [COPX] Lower Priority for enroute COP KOR/KEA than LGAV TMA COP (#483)
+- [AIRAC] Regions/SCT Entries/Labels | LGSR Ground 2603 Changes (#485)
+- [AIRAC] PROC | LGSR | RNP Rwy 15 Approach 2603 Changes (#486)
+- [AIRAC] VFR Points | LGKP | Points ALPHAS, BRAVOS, CHARLY renamed to INATOS, EIRINI, FINIKI respectively (2604) (#489)
+- [AIRAC] VFR Points | LGMK | Point MIKE renamed to KIMA (2604) (#490)
+- [AIRAC] VFR Points | LGMT | Point AGIA renamed to PARASKEVI (2604) (#491)
