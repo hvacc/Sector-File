@@ -1788,3 +1788,41 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [AIRAC] VFR Points | LGKP | Points ALPHAS, BRAVOS, CHARLY renamed to INATOS, EIRINI, FINIKI respectively (2604) (#489)
 - [AIRAC] VFR Points | LGMK | Point MIKE renamed to KIMA (2604) (#490)
 - [AIRAC] VFR Points | LGMT | Point AGIA renamed to PARASKEVI (2604) (#491)
+
+## Changes Release 2605
+
+### LGGG
+
+### Added:
+
+- [AIRAC] Labels | LGPA Ground | Taxiways A and B (#496)
+- [PLUGINS] TopSky | Add CPDLC Login Code for LMMM_E_CTR (#498)
+- [PROC] LGKR | Auto-assignment of RNP APP RWY 16 (#507)
+- [PLUGINS] TopSky Maps | Add Automatic Display of LGKR RNAV Points Depending on Runway Config (#511)
+
+### Changed: 
+
+- [PROC] LGKR | STAR | PITAS2S > PITAS2J Priority (#492)
+- [AIRAC] LGGG 2605 Airway Changes (#494)
+- [AIRAC] VFR Points | LGKR | Points AVLAKI and KAVOSS renamed to KASIOPI and LEFKIMI respectively (#495)
+- [PROC] LGRP | STAR/IAP | Priority for procedures connected with ILS Y 24 (#499)
+- [COPX] RIKSO COPX Withdrawal & Replaced with NEMOH/TIPOT (#503)
+- [PLUGINS] GroundRadar | Settings | Reduce arrival stand auto-assignment distance to 15nm (#506)
+
+### Fixed: 
+
+- [VFR Points] LGRP | Correct Point WHISKEY to WHISKY (#497)
+- [BUG] Regions | LGAL Groundlayout misalignment (#500)
+- [BUG] Sectors | LGKR_GND AoR Limits (#501)
+- [BUG] SCT Entries/Regions | LGSK Groundlayout Flaws (#502)
+
+### LCCC
+
+### Changed:
+
+- [AIRAC] Positions | LCCC/LCLK/LCPH | Transition to 8.33 KHz frequency channels (#493)
+- [PLUGINS] GroundRadar | Settings | Reduce arrival stand auto-assignment distance to 15nm (identical to #506)
+
+### Fixed:
+- [BUG] Settings | Profiles | LCLK_GND defined as Clearance/Delivery Position (#505)
+- [FILES] Profiles/Voice Channels | Changed Larnaka Clearance to Larnaka Delivery (#510)
