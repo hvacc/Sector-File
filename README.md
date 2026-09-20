@@ -1,8 +1,9 @@
 ## Καλωσήρθατε στην σελίδα συνεννόησης και καταγραφής αλλαγών στα Sector Files του Hellenic vACC 
 <img src="https://hvacc.org/uploads/monthly_2019_02/hvacc-logo-1-1.png.8ecd658f966d7ab047b8c305c623ece1.png" width="auto">
 
-### Navigation Department (Nav Dept):
-> Director (ACCGR5): Ioannis Gaitaneris
+### Operations Department (Ops Dept):
+> Director (ACCGR4): Ioannis Gaitaneris
+> Cyprus Ops Manager (ACCGR41): Alexander Nakopoulos
 
 > Contact at: nav@hvacc.org
 
@@ -15,7 +16,7 @@ AeroNAV GNG Sector Packages: http://files.aero-nav.com/LGGG & http://files.aero-
 
 ## Δημιουργία Επικείμενων Αλλαγών
 
-Η πρόταση, η καταγραφή και ο συντονισμός των αλλαγών στα sector files γίνεται με το άνοιγμα σχετικών issues, τα οποία το Nav Dept αξιολογεί ως προς την καταλληλότητα τους. 
+Η πρόταση, η καταγραφή και ο συντονισμός των αλλαγών στα sector files γίνεται με το άνοιγμα σχετικών issues, τα οποία το Ops Dept αξιολογεί ως προς την καταλληλότητα τους. 
 
 Γενικά, οι ενημερώσεις που προτείνονται στα issues πρέπει να είναι τεκμηριωμένες και συνήθως αναφέρονται στα εξής:
 
@@ -23,26 +24,26 @@ AeroNAV GNG Sector Packages: http://files.aero-nav.com/LGGG & http://files.aero-
 -  Αναφορές σφαλμάτων, προβλημάτων ή χαρακτηριστικών που δεν δουλεύουν όπως θα έπρεπε (bug reports).
 -  Συμφωνίες όπως προσυμφωνημένα ύψη ή ελεύθερα directs (COPX).
 -  Αλλαγές ή προσθήκες που μπορούν να προσφέρουν λειτουργικότητα, πρακτικότητα ή ρεαλιστικότητα (π.χ. Feature Requests).
--  Σχόλια της κοινότητας (όπως από το σχετικό thread των αναφορών στο forum, τα οποία το Nav Dept μεταφέρει στο GitHub σε περίπτωση αποδοχής.)
+-  Σχόλια της κοινότητας (όπως από το σχετικό thread των αναφορών στο forum, τα οποία το Ops Dept μεταφέρει στο GitHub σε περίπτωση αποδοχής.)
 
 ## Διαδικασία Διαχείρισης των Issue στο GitHub
 
-1.  Δημιουργία issue στην πλατφόρμα GitHub είτε από χρήστες είτε από το Nav Dept, χρησιμοποιώντας κατά προτίμηση ένα από τα templates που υπάρχουν.
-2.  Αξιολόγηση από το Nav Dept:
+1.  Δημιουργία issue στην πλατφόρμα GitHub είτε από χρήστες είτε από το Ops Dept, χρησιμοποιώντας κατά προτίμηση ένα από τα templates που υπάρχουν.
+2.  Αξιολόγηση από το Ops Dept:
      -  Σε περίπτωση αποδοχής: Προσθήκη "pending" label + milestone
      -  Σε περίπτωση απόρριψης: Προσθήκη "wontfix" label και κλείσιμο του issue
-3.  Εργασία του Nav Dept πάνω στο issue: Προσθήκη "in-progress" label
+3.  Εργασία του Ops Dept πάνω στο issue: Προσθήκη "in-progress" label
 4.  Beta Testing
 5.  Με την επιτυχή υλοποίηση της προσθήκης/αλλαγής/διόρθωσης προσθήκη "completed" label.
 6.  Τελική φάση testing και προσθήκη στο [changelog.md](https://github.com/hvacc/Sector-File/blob/master/changelog.md)
 7.  Κλείσιμο του issue και release με την επόμενη προγραμματισμένη ενημέρωση του sector file.
 
 
-*Στο changelog που βγαίνει μαζί με κάθε release των sector file, όλα τα changes που επισημαίνονται είναι διασυνδεδεμένα με τα αντίστοιχα issues στο GitHub.*
+*Στο changelog που βγαίνει μαζί με κάθε release των sector file, τα changes που επισημαίνονται είναι διασυνδεδεμένα με τα αντίστοιχα issues στο GitHub.*
 
 
 ## Προγραμματισμένα Release των Sector File:
 
 | LGGG | AIRAC   | Date              | Milestone            |  ↔  | LCCC | AIRAC   | Date              | Milestone         |
 | :-:  | :-----: | :---------------: | :---------------:    | :-: | :-:  |:-----:  | :---------------: | :---------------: |
-| →    | 2605    | 14.05.2026        | [2605 LG](https://github.com/hvacc/Sector-File/milestone/27) |     | →    | 2605    | 14.05.2026 | [2605 LC](https://github.com/hvacc/Sector-File/milestone/26) |
+| →    | 2605    | 14.05.2026        | [2605 LG](https://github.com/hvacc/Sector-File/milestone/27) |     | →    | 2610    | 01.10.2026 | [2610 LC](https://github.com/hvacc/Sector-File/milestone/28) |
