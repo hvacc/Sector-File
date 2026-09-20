@@ -3,6 +3,7 @@
 
 ### Operations Department (Ops Dept):
 > Director (ACCGR4): Ioannis Gaitaneris
+
 > Cyprus Ops Manager (ACCGR41): Alexander Nakopoulos
 
 > Contact at: nav@hvacc.org
