@@ -1826,3 +1826,33 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 ### Fixed:
 - [BUG] Settings | Profiles | LCLK_GND defined as Clearance/Delivery Position (#505)
 - [FILES] Profiles/Voice Channels | Changed Larnaka Clearance to Larnaka Delivery (#510)
+
+## Changes Release 2610
+
+### LCCC
+
+### Added:
+
+- [FILES] LCCC | Settings | Tags | Add Nicosia - TopSky tag (#532)
+- [PLUGINS] TopSky | Add LCCC area activation via TopSkyAreas (mentioned in #533)
+
+### Changed:
+
+- [POSITIONS/PROFILES] LCLK_APP | Renamed Larnaka Approach to Larnaka Radar (#521)
+- [AIRAC] SCT Entries/Labels | LCLK Groundlayout Updates (2602/2607) (#523)
+- [PLUGINS] TopSkyAirspace | Changed LCLK/LCPH Initial CFL to 3000ft (#525)
+- [COPX] BALMA LCLK Deps/Arrs Revision (#528)
+- [PLUGINS] vSMR | Transitioned to vSMR fork and vSMR_Profiles.json revision (#530)
+- [FILES] LCCC | Settings | Symbology | Updated datablock colors, radar symbols & ARTCC-L boundary for more realism (#531)
+- [PLUGINS] GRpluginStands | Reworked LCLK stands for 2610 release (#529)
+- [PLUGINS] LCCC | Upgraded TopSky Setup from 2.4.1 to 2.6 beta 6 (#533)
+- [SECTORS] LCLK_GND Sector Border Update (#534)
+
+### Fixed:
+
+- [BUG] Regions | LCPH Ground | Polygon snapping issues (#524)
+
+### Removed:
+- [SCT Entries] LCCC Danger area (Repaced with TopSkyAreas in #533)
+- [SCT Entries] LCCC Groundlayout Blue_Taxi_Border (stale)
+- [SCT Entries] LCCC Groundlayout Airports | Cleanup & split into LCLK Groundlayout and LCPH Groundlayout for easier maintenance
