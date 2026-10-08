@@ -1835,6 +1835,7 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 
 - [FILES] LCCC | Settings | Tags | Add Nicosia - TopSky tag (#532)
 - [PLUGINS] TopSky | Add LCCC area activation via TopSkyAreas (mentioned in #533)
+- [PROC] Approach | Add automatic assignment for LCLK ILS-Y 22 and ILS-S 22 (#535)
 
 ### Changed:
 
