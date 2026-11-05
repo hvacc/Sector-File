@@ -1857,3 +1857,50 @@ The format is based on [Keep a Changelog github.com/hvacc/Sector-File/issues
 - [SCT Entries] LCCC Danger area (Repaced with TopSkyAreas in #533)
 - [SCT Entries] LCCC Groundlayout Blue_Taxi_Border (stale)
 - [SCT Entries] LCCC Groundlayout Airports | Cleanup & split into LCLK Groundlayout and LCPH Groundlayout for easier maintenance
+
+## Changes Release 2611
+
+### LGGG
+
+### Added:
+
+- [AIRAC] VFR Points | LGMK | New Point LAOUTI (2606) (#509)
+- [COPX] ALIKI/XAVIS LGST (#515)
+- [LABELS] LGMG & LGTT Ground | Taxiway Labels (#519)
+- [PROC] Approach | LGTS RNP (Z/Y) 34 automatic assignment & TopSkyMaps Draw (#536)
+- [AIRAC] Neighbouring Positions | Addition of LIBB_ES8_CTR (#539)
+- [PLUGINS] TopSky Maps | AIP SUP 45/26 LGAV Closure Areas (#546)
+
+### Changed:
+
+- [AIRAC] VFR Points | LGTG | Point KIMI Coordinates Update (2606) (#508)
+- [COPX] TIPOT/NEMOH LTBJ (#512)
+- [AIRAC] Labels | LGTS Ground | TWYs N, O, R renamed to N1, N2, N3 (2607) (#516)
+- [SCT Entries/Regions/Labels] LGKR Groundlayout Updated (#518)
+- [SCT Entries/Regions/Labels] LGZA Groundlayout Updated (#520)
+- [AIRAC] VFR Points | LGAV | Point MEGALO Coordinates Updated (2609) (#526)
+- [PLUGINS] vSMR | Transitioned to vSMR fork and vSMR_Profiles.json revision (#530)
+- [PLUGINS] Replaced vACDM plugin with CDM plugin (#537)
+- [PLUGINS] Updated Ground Radar plugin to version 1.6 (#538)
+- [AIRAC] Neighbouring Positions | LAAA_CTR Frequency Updated (#539)
+- [POSITIONS/PROFILES] Withdrawal of "Director" callsigns (Ref 2411) (#541)
+- [PLUGINS] TopSkySSRCodes | Removed old LCCC Ranges (redundant)
+- [SETTINGS] General | Added 1000, 1234 as non-discrete squawk codes & Enabled TransparentAcListSelectedBackground (mirrors LCCC change with 2610)
+
+### Fixed:
+
+- [BUG] Positions | LGGG_KRK/KRU_CTR | Visibility center point not in range of HECC visibility (#513)
+- [BUG] Sectors | LGIR_GND & LGTS_GND | Ground AoR infringes runways (#545)
+
+### LCCC
+
+### Added:
+- [COPX] FREE COPX CAK LCCCE -> OLBB (#542)
+
+### Changed:
+- [PLUGINS] vSMR | Updated vSMR fork to version 1.1 (#530)
+- [PLUGINS] Updated Ground Radar plugin to version 1.6 (#538)
+- [COPX] Changed TUZIB free direct to AZERE for LCLK Deps (#543)
+- [SECTORS] Ownership | Extend LCCCEL lateral AoR to cover same lateral AoR as LCCCE (#544)
+- [PLUGINS] TopSkyMaps | Replaced LCLK ground release point polygon labels with dynamic TopSky TEXT labels (#523)
+- [PLUGINS] TopSkySettings | Refined STCA settings & Restored Alt_Digits=2
